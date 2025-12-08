@@ -5,6 +5,7 @@
 https://hub.docker.com/repository/docker/zzugly/custom-nginx/general  
 https://hub.docker.com/r/zzugly/custom-nginx/tags
 ## Задача 2.
+### 1 Задание.  
 **/DOCKER_TEST# docker run --name zhelanov-custom-nginx-t2 -d -p 8080:80 zzugly/custom-nginx:1.0.0**  
 Unable to find image 'zzugly/custom-nginx:1.0.0' locally  
 1.0.0: Pulling from zzugly/custom-nginx  
@@ -22,7 +23,7 @@ Status: Downloaded newer image for zzugly/custom-nginx:1.0.0
 **/DOCKER_TEST# docker ps -a**  
 CONTAINER ID   IMAGE                       COMMAND                  CREATED          STATUS         PORTS                                     NAMES  
 113a1b8e2ed9   zzugly/custom-nginx:1.0.0   "/docker-entrypoint.…"   11 seconds ago   Up 9 seconds   0.0.0.0:8080->80/tcp, [::]:8080->80/tcp   zhelanov-custom-nginx-t2
-
+### 2 Задание. 
 **/DOCKER_TEST# docker stop zhelanov-custom-nginx-t2**  
 zhelanov-custom-nginx-t2  
 **/DOCKER_TEST# docker ps -a**  
@@ -37,7 +38,7 @@ custom-nginx-t2
 **/DOCKER_TEST# docker ps -a**  
 CONTAINER ID   IMAGE                       COMMAND                  CREATED         STATUS         PORTS                                     NAMES  
 113a1b8e2ed9   zzugly/custom-nginx:1.0.0   "/docker-entrypoint.…"   3 minutes ago   Up 2 seconds   0.0.0.0:8080->80/tcp, [::]:8080->80/tcp   custom-nginx-t2  
-
+### 3 Задание. 
 **/DOCKER_TEST# date +"%d-%m-%Y %T.%N %Z" ; sleep 0.150 ; docker ps ; ss -tlpn | grep 127.0.0.1:8080  ; docker logs custom-nginx-t2 -n1 ; docker exec -it custom-nginx-t2 base64 /usr/share/nginx/html/index.html**  
 08-12-2025 14:19:33.070281594 MSK  
 CONTAINER ID   IMAGE                       COMMAND                  CREATED         STATUS          PORTS                                     NAMES  
@@ -45,13 +46,15 @@ CONTAINER ID   IMAGE                       COMMAND                  CREATED     
 172.17.0.1 - - [08/Dec/2025:11:19:00 +0000] "GET / HTTP/1.1" 200 95 "-" "curl/7.68.0" "-"  
 PGh0bWw+CjxoZWFkPgpIZXksIE5ldG9sb2d5CjwvaGVhZD4KPGJvZHk+CjxoMT5JIHdpbGwgYmUg  
 RGV2T3BzIEVuZ2luZWVyITwvaDE+CjwvYm9keT4KPC9odG1sPgo=  
-
+### 4 Задание. 
 **/DOCKER_TEST# curl http://127.0.0.1:8080**  
 Hey, Netology  
 I will be DevOps Engineer!
 ## Задача 3.
+### 1 Задание. 
 **/DOCKER_TEST# docker logs --follow custom-nginx-t2**  
 (очень длинный вывод)  
+### 2 Задание.
 **/DOCKER_TEST/src# docker attach custom-nginx-t2**  
 ^C2025/12/08 12:00:10 [notice] 1#1: signal 2 (SIGINT) received, exiting  
 2025/12/08 12:00:10 [notice] 22#22: exiting  
@@ -73,18 +76,20 @@ I will be DevOps Engineer!
 2025/12/08 12:00:10 [notice] 1#1: worker process 22 exited with code 0  
 2025/12/08 12:00:10 [notice] 1#1: worker process 25 exited with code 0  
 2025/12/08 12:00:10 [notice] 1#1: exit  
-
+### 3 Задание.
 **/DOCKER_TEST/src# docker ps -a**    
 CONTAINER ID   IMAGE                       COMMAND                  CREATED          STATUS                     PORTS     NAMES   
 113a1b8e2ed9   zzugly/custom-nginx:1.0.0   "/docker-entrypoint.…"   54 minutes ago   Exited (0) 9 minutes ago             custom-nginx-t2    
 **Ctrl+C посылает прерывание главному процессу контейнера, соответственно он завершается и останавливается контейнер**
-
+### 4 Задание.
 **/DOCKER_TEST/src# docker start custom-nginx-t2**  
 custom-nginx-t2  
 **/DOCKER_TEST/src# docker ps -a**  
 CONTAINER ID   IMAGE                       COMMAND                  CREATED             STATUS         PORTS                                     NAMES  
 113a1b8e2ed9   zzugly/custom-nginx:1.0.0   "/docker-entrypoint.…"   About an hour ago   Up 2 seconds   0.0.0.0:8080->80/tcp, [::]:8080->80/tcp   custom-nginx-t2  
+### 5 Задание.
 **/DOCKER_TEST/src# docker exec -it custom-nginx-t2 bash**  
+### 6 Задание.  
 **root@113a1b8e2ed9:/# apt-get update**  
 Get:1 http://deb.debian.org/debian bookworm InRelease [151 kB]  
 Get:2 http://deb.debian.org/debian bookworm-updates InRelease [55.4 kB]  
@@ -96,11 +101,13 @@ Fetched 9342 kB in 3s (3268 kB/s)
 Reading package lists... Done  
 **root@113a1b8e2ed9:/# apt-get install vim**  
 (очень длинный вывод)  
+### 7 Задание.
 **root@113a1b8e2ed9:/# cat /etc/nginx/conf.d/default.conf | grep listen**  
     listen       81;  
     listen  [::]:81;  
     # proxy the PHP scripts to Apache listening on 127.0.0.1:80  
     # pass the PHP scripts to FastCGI server listening on 127.0.0.1:9000  
+### 8 Задание.  
 **root@113a1b8e2ed9:/# nginx -s reload**  
 2025/12/08 12:36:36 [notice] 284#284: signal process started  
 **root@113a1b8e2ed9:/# curl http://127.0.0.1:80**  
@@ -108,8 +115,9 @@ curl: (7) Failed to connect to 127.0.0.1 port 80 after 0 ms: Couldn't connect to
 **root@113a1b8e2ed9:/# curl http://127.0.0.1:81** 
 Hey, Netology  
 I will be DevOps Engineer!
+### 9 Задание. 
 **root@113a1b8e2ed9:/# exit**  
-
+### 10 Задание.
 **/DOCKER_TEST/src# ss -tlpn | grep 8080**  
 LISTEN    0         4096               0.0.0.0:8080             0.0.0.0:*        users:(("docker-proxy",pid=12270,fd=7))                                       
 LISTEN    0         4096                  [::]:8080                [::]:*        users:(("docker-proxy",pid=12277,fd=7))           
@@ -119,9 +127,10 @@ LISTEN    0         4096                  [::]:8080                [::]:*       
 **/DOCKER_TEST/src# curl http://127.0.0.1:8080**  
 curl: (56) Recv failure: Connection reset by peer  
 **(Проблема в том, что nginx слушает 81 порт а проброшен 80)**  
+### 11 Задание.
 **Проблема исправлена, благодаря ссылке в задании**  
 **Проведены остановка контейнера и сервиса docker, затем исправленеы конфигурационные файлы hostconfig.json и config.v2.json, в каталоге  /var/lib/docker/containers/<ID>. По завершению проведен запуск сервиса docker и старт контейнера** 
-
+### 12 Задание.
 **/DOCKER_TEST# docker rm -f custom-nginx-t2**  
 custom-nginx-t2  
 **/DOCKER_TEST# docker ps -a**  
