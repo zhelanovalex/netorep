@@ -135,6 +135,46 @@ curl: (56) Recv failure: Connection reset by peer
 custom-nginx-t2  
 **/DOCKER_TEST# docker ps -a**  
 CONTAINER ID   IMAGE     COMMAND   CREATED   STATUS    PORTS     NAMES  
+## Задача 4.
+### 1 Задание. 
+**/DOCKER_TEST/vol_doc# docker run --name centos-neto -d -it -v $(pwd):/data centos:8 /bin/bash**  
+Unable to find image 'centos:8' locally  
+8: Pulling from library/centos  
+a1d0c7532777: Pull complete  
+Digest: sha256:a27fd8080b517143cbbbab9dfb7c8571c40d67d534bbdee55bd6c473f432b177  
+Status: Downloaded newer image for centos:8  
+e107cf3cf18b17b0c533fb66d2b1d08dbc1ed995bcc5c17e6ca553bcfe47c1e6  
+### 2 Задание. 
+**/DOCKER_TEST/vol_doc# docker run --name debian-neto -d -it -v $(pwd):/data debian:9 /bin/bash**  
+Unable to find image 'debian:9' locally  
+9: Pulling from library/debian  
+8372a04f222b: Pull complete  
+Digest: sha256:c5c5200ff1e9c73ffbf188b4a67eb1c91531b644856b4aefe86a58d2f0cb05be  
+Status: Downloaded newer image for debian:9  
+58ddf2a7afa70666652e94afbe35e0f31dad219ae7987bd512ea6a0e69424dc8  
+**/DOCKER_TEST/vol_doc# docker ps -a**  
+CONTAINER ID   IMAGE                       COMMAND                  CREATED          STATUS          PORTS                                     NAMES  
+58ddf2a7afa7   debian:9                    "/bin/bash"              44 seconds ago   Up 39 seconds                                             debian-neto  
+e107cf3cf18b   centos:8                    "/bin/bash"              12 minutes ago   Up 11 minutes                                             centos-neto  
+### 3 Задание.  
+**/DOCKER_TEST/vol_doc# docker exec -it centos-neto bash**  
+**[root@e107cf3cf18b /]# cd /data**  
+**[root@e107cf3cf18b data]# cat temp_centos**   
+Hello word!!!  
+### 4 Задание.
+**/DOCKER_TEST/vol_doc# cp -p /etc/hosts ./**  
+**/DOCKER_TEST/vol_doc# ls**  
+hosts  temp_centos  
+### 5 Задание.  
+**/DOCKER_TEST/vol_doc# docker exec -it debian-neto bash** 
+**root@58ddf2a7afa7:/# cd /data**  
+**root@58ddf2a7afa7:/data# ls**  
+hosts  temp_centos  
+
+
+  
+
+
 
 
 
