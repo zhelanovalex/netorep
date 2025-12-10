@@ -48,8 +48,15 @@ PGh0bWw+CjxoZWFkPgpIZXksIE5ldG9sb2d5CjwvaGVhZD4KPGJvZHk+CjxoMT5JIHdpbGwgYmUg
 RGV2T3BzIEVuZ2luZWVyITwvaDE+CjwvYm9keT4KPC9odG1sPgo=  
 ### 4 Задание. 
 **/DOCKER_TEST# curl http://127.0.0.1:8080**  
-Hey, Netology  
-I will be DevOps Engineer!
+<html>
+<head>
+Hey, Netology
+</head>
+<body>
+<h1>I will be DevOps Engineer!</h1>
+</body>
+</html>
+
 ## Задача 3.
 ### 1 Задание. 
 **/DOCKER_TEST# docker logs --follow custom-nginx-t2**  
@@ -113,8 +120,15 @@ Reading package lists... Done
 **root@113a1b8e2ed9:/# curl http://127.0.0.1:80**  
 curl: (7) Failed to connect to 127.0.0.1 port 80 after 0 ms: Couldn't connect to server  
 **root@113a1b8e2ed9:/# curl http://127.0.0.1:81** 
-Hey, Netology  
-I will be DevOps Engineer!
+<html>
+<head>
+Hey, Netology
+</head>
+<body>
+<h1>I will be DevOps Engineer!</h1>
+</body>
+</html>
+
 ### 9 Задание. 
 **root@113a1b8e2ed9:/# exit**  
 ### 10 Задание.
@@ -323,7 +337,12 @@ WARN[0000] /DOCKER_TEST/compose/docker-compose.yaml: the attribute `version` is 
  ✔ Container compose-portainer-1  Removed           1.5s  
  ✔ Container compose-registry-1   Running           0.0s  
 **Docker-compose останавливает осиротевший контейнер и удаляет его из стэка и из списка контейнеров**  
- 
+**/DOCKER_TEST/compose# docker-compose down**  
+WARN[0000] /DOCKER_TEST/compose/docker-compose.yaml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion  
+[+] Running 2/2  
+ ✔ Container compose-registry-1  Removed           1.8s  
+ ✔ Network compose_default       Removed           0.7s  
+
 
 
  
