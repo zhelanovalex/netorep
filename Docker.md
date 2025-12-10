@@ -194,15 +194,15 @@ WARN[0000] /DOCKER_TEST/compose/compose.yaml: the attribute `version` is obsolet
 **Для запуска обоих файлов в файле compose.yaml необходимо использовать дополнение в виде директивы include** 
 ### 2 Задание.  
 **/DOCKER_TEST/compose# cat compose.yaml**  
-version: "3"  
-include:  
-  - ./docker-compose.yaml  
-services:  
-  portainer:  
-    network_mode: host  
-    image: portainer/portainer-ce:latest  
-    volumes:  
-    - /var/run/docker.sock:/var/run/docker.sock
+        version: "3"  
+        include:  
+          - ./docker-compose.yaml  
+        services:  
+          portainer:  
+            network_mode: host  
+            image: portainer/portainer-ce:latest  
+            volumes:  
+            - /var/run/docker.sock:/var/run/docker.sock
 
 **/DOCKER_TEST/compose# docker-compose up -d**  
 WARN[0000] Found multiple config files with supported names: /DOCKER_TEST/compose/compose.yaml, /DOCKER_TEST/compose/docker-compose.yaml  
@@ -308,10 +308,22 @@ centos                        8         5d0da3dc9764   4 years ago    231MB
         Created:"2025-12-10T06:13:44.364611629Z",
         Driver:"overlay2",
 
-
-
-
-
+### 7 Задание. 
+**/DOCKER_TEST/compose# ls**  
+docker-compose.yaml  
+**/DOCKER_TEST/compose# docker-compose up -d**  
+WARN[0000] /DOCKER_TEST/compose/docker-compose.yaml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion  
+WARN[0000] Found orphan containers ([compose-portainer-1]) for this project. If you removed or renamed this service in your compose file, you can run this command with the --remove-orphans flag to clean it up.  
+[+] Running 1/1  
+ ✔ Container compose-registry-1  Running         
+**Найден осиротевший контейнер в данном стаке. Если вы исправили compose файл и хотите применить его то необходимо выполнить определенные действия с флагом --remove-orphans**  
+**/DOCKER_TEST/compose# docker-compose up -d --remove-orphans**  
+WARN[0000] /DOCKER_TEST/compose/docker-compose.yaml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion  
+[+] Running 2/2  
+ ✔ Container compose-portainer-1  Removed           1.5s  
+ ✔ Container compose-registry-1   Running           0.0s  
+**Docker-compose останавливает осиротевший контейнер и удаляет его из стэка и из списка контейнеров**  
+ 
 
 
  
