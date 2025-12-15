@@ -2,9 +2,11 @@
 # Домашнее задание к занятию 5. «Практическое применение Docker»
 ## Задача 0.
 ### 1 Задание.
-<img width="600" height="194" alt="image" src="https://github.com/user-attachments/assets/b60c45b6-260c-43b3-8fbe-21b0f5ab25c5" />
-## Задача 2.
+<img width="600" height="194" alt="image" src="https://github.com/user-attachments/assets/b60c45b6-260c-43b3-8fbe-21b0f5ab25c5" />  
+## Задача 1.
 ### 1 Задание.  
+<img width="1341" height="595" alt="image" src="https://github.com/user-attachments/assets/3a6cefa5-6dab-4c43-a161-9c7b3cdf9be5" />  
+
 **/DOCKER_TEST# docker run --name zhelanov-custom-nginx-t2 -d -p 8080:80 zzugly/custom-nginx:1.0.0**  
 Unable to find image 'zzugly/custom-nginx:1.0.0' locally  
 1.0.0: Pulling from zzugly/custom-nginx  
