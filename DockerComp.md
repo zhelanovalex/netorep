@@ -1,8 +1,8 @@
 # netorep
-# Домашнее задание к занятию 4 «Оркестрация группой Docker контейнеров на примере Docker Compose»
-## Задача 1.
-https://hub.docker.com/repository/docker/zzugly/custom-nginx/general  
-https://hub.docker.com/r/zzugly/custom-nginx/tags
+# Домашнее задание к занятию 5. «Практическое применение Docker»
+## Задача 0.
+### 1 Задание.
+<img width="600" height="194" alt="image" src="https://github.com/user-attachments/assets/b60c45b6-260c-43b3-8fbe-21b0f5ab25c5" />
 ## Задача 2.
 ### 1 Задание.  
 **/DOCKER_TEST# docker run --name zhelanov-custom-nginx-t2 -d -p 8080:80 zzugly/custom-nginx:1.0.0**  
