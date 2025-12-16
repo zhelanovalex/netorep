@@ -11,6 +11,7 @@
 <img width="1341" height="595" alt="image" src="https://github.com/user-attachments/assets/3a6cefa5-6dab-4c43-a161-9c7b3cdf9be5" />  
 
 ### 2 Задание. 
+#### Создание Dokerfile.python и сборка.
 https://github.com/zhelanovalex/shvirtd-example-python/blob/main/Dockerfile.python  
 
 <img width="1571" height="453" alt="image" src="https://github.com/user-attachments/assets/8bdb08d3-7a14-41c6-b68e-8e2313e42078" />  
@@ -20,8 +21,9 @@ https://github.com/zhelanovalex/shvirtd-example-python/blob/main/Dockerfile.pyth
 #### Запуск базы.  
 <img width="1602" height="248" alt="image" src="https://github.com/user-attachments/assets/9b26ec93-050c-4329-9eb2-6db3115537ee" />
 <img width="950" height="135" alt="image" src="https://github.com/user-attachments/assets/8358b331-adc7-4bfb-a5b4-cb3479999818" />
-<img width="964" height="17" alt="image" src="https://github.com/user-attachments/assets/b375284a-68ba-4dd3-a130-dcb59d702a5b" />
+
 #### Запуск приложения. 
+<img width="964" height="17" alt="image" src="https://github.com/user-attachments/assets/b375284a-68ba-4dd3-a130-dcb59d702a5b" />  
 <img width="845" height="47" alt="image" src="https://github.com/user-attachments/assets/c496b55f-a1e9-47aa-82f6-b43fb6062ea1" />
 <img width="865" height="197" alt="image" src="https://github.com/user-attachments/assets/0e6f229f-297d-41b1-94f1-02464f9612fc" />
 
