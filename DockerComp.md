@@ -22,6 +22,10 @@ https://github.com/zhelanovalex/shvirtd-example-python/blob/main/Dockerfile.pyth
 <img width="1243" height="100" alt="image" src="https://github.com/user-attachments/assets/0ead2352-ade7-4884-b7d0-afc385ffea02" />
 <img width="1044" height="379" alt="image" src="https://github.com/user-attachments/assets/ee4c42a7-c362-4dc6-a064-fd9a1ccfbc26" />
 
+<img width="964" height="17" alt="image" src="https://github.com/user-attachments/assets/b375284a-68ba-4dd3-a130-dcb59d702a5b" />
+<img width="845" height="47" alt="image" src="https://github.com/user-attachments/assets/c496b55f-a1e9-47aa-82f6-b43fb6062ea1" />
+
+
 
 ## Задача 2.  
 ### 1 Задание.  
