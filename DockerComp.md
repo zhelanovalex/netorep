@@ -17,6 +17,8 @@ https://github.com/zhelanovalex/shvirtd-example-python/blob/main/Dockerfile.pyth
 <img width="1111" height="259" alt="image" src="https://github.com/user-attachments/assets/41659547-cce8-4c22-bf3d-db92f4ef9b39" />
 
 ### 3 Задание.
+#### Запуск базы.  
+<img width="893" height="98" alt="image" src="https://github.com/user-attachments/assets/616a81e6-02ce-4059-af4d-83b3c53a4530" />
 <img width="1243" height="100" alt="image" src="https://github.com/user-attachments/assets/0ead2352-ade7-4884-b7d0-afc385ffea02" />
 <img width="1044" height="379" alt="image" src="https://github.com/user-attachments/assets/ee4c42a7-c362-4dc6-a064-fd9a1ccfbc26" />
 
