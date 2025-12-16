@@ -14,6 +14,7 @@
 https://github.com/zhelanovalex/shvirtd-example-python/blob/main/Dockerfile.python
 
 
+<img width="1107" height="773" alt="image" src="https://github.com/user-attachments/assets/4b26d84c-a2cd-410e-b539-a4113bc038cb" />
 
 **/DOCKER_TEST# docker run --name zhelanov-custom-nginx-t2 -d -p 8080:80 zzugly/custom-nginx:1.0.0**  
 Unable to find image 'zzugly/custom-nginx:1.0.0' locally  
