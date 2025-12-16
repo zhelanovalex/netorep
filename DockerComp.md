@@ -37,7 +37,8 @@ https://github.com/zhelanovalex/shvirtd-example-python/blob/main/Dockerfile.pyth
 ### 5 Задание.
 
 <img width="1234" height="982" alt="image" src="https://github.com/user-attachments/assets/7630a95b-7701-462d-9e01-1b647ea50156" />
-<img width="1179" height="146" alt="image" src="https://github.com/user-attachments/assets/b6ff9bc9-3324-4fc6-b8ba-9ab6405e6d32" />
+<img width="1085" height="115" alt="image" src="https://github.com/user-attachments/assets/9006668b-9833-4d50-9cdd-78504c0a9831" />
+
 
 
 
