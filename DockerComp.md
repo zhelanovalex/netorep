@@ -16,6 +16,11 @@ https://github.com/zhelanovalex/shvirtd-example-python/blob/main/Dockerfile.pyth
 <img width="1571" height="453" alt="image" src="https://github.com/user-attachments/assets/8bdb08d3-7a14-41c6-b68e-8e2313e42078" />  
 <img width="1111" height="259" alt="image" src="https://github.com/user-attachments/assets/41659547-cce8-4c22-bf3d-db92f4ef9b39" />
 
+### 3 Задание.
+<img width="1243" height="100" alt="image" src="https://github.com/user-attachments/assets/0ead2352-ade7-4884-b7d0-afc385ffea02" />
+<img width="1044" height="379" alt="image" src="https://github.com/user-attachments/assets/ee4c42a7-c362-4dc6-a064-fd9a1ccfbc26" />
+
+
 ## Задача 2.  
 ### 1 Задание.  
 
@@ -38,7 +43,7 @@ https://github.com/zhelanovalex/shvirtd-example-python/blob/main/Dockerfile.pyth
 <img width="1234" height="982" alt="image" src="https://github.com/user-attachments/assets/7630a95b-7701-462d-9e01-1b647ea50156" />
 <img width="1085" height="115" alt="image" src="https://github.com/user-attachments/assets/9006668b-9833-4d50-9cdd-78504c0a9831" />
 
-
+## Задача 3.  
 
 
 <img width="1107" height="773" alt="image" src="https://github.com/user-attachments/assets/4b26d84c-a2cd-410e-b539-a4113bc038cb" />
