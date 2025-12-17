@@ -60,7 +60,13 @@ https://github.com/zhelanovalex/shvirtd-example-python/blob/main/compose.yaml
 #### Cкриншот sql-запроса.
 <img width="875" height="836" alt="image" src="https://github.com/user-attachments/assets/88512da1-efb4-4136-91d0-821225d0b69a" />
 
-
 ## Задача 4.
+#### Запуск проекта выполнен без скрипта, так пришлось инициализировать подключение yandex cli, и были некоторые уникальности в compose.yaml.
+<img width="989" height="555" alt="image" src="https://github.com/user-attachments/assets/a714e947-ad77-4193-a84d-689c30cfd4bb" />
+<img width="773" height="975" alt="image" src="https://github.com/user-attachments/assets/1dfd6fbb-2666-443e-97e3-f51c6792ab25" />
 
+#### Docker context.
+<img width="783" height="100" alt="image" src="https://github.com/user-attachments/assets/1f1f7b2b-be23-4176-89a8-65da88e51911" />
+<img width="1470" height="221" alt="image" src="https://github.com/user-attachments/assets/85c871c6-5176-40e1-9495-cd9a130acb41" />
 
+## Задача 5.
