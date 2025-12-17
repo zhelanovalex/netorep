@@ -3,11 +3,13 @@
 ## Задача 0.
 
 ### 1 Задание.
+#### Проверка docker compose.
 <img width="600" height="194" alt="image" src="https://github.com/user-attachments/assets/b60c45b6-260c-43b3-8fbe-21b0f5ab25c5" />  
 
 ## Задача 1.
 
-### 1 Задание.  
+### 1 Задание. 
+#### fork учебного репозитоия.
 <img width="1341" height="595" alt="image" src="https://github.com/user-attachments/assets/3a6cefa5-6dab-4c43-a161-9c7b3cdf9be5" />  
 
 ### 2 Задание. 
@@ -26,7 +28,6 @@ https://github.com/zhelanovalex/shvirtd-example-python/blob/main/Dockerfile.pyth
 <img width="964" height="17" alt="image" src="https://github.com/user-attachments/assets/b375284a-68ba-4dd3-a130-dcb59d702a5b" />  
 <img width="845" height="47" alt="image" src="https://github.com/user-attachments/assets/c496b55f-a1e9-47aa-82f6-b43fb6062ea1" />
 <img width="865" height="197" alt="image" src="https://github.com/user-attachments/assets/0e6f229f-297d-41b1-94f1-02464f9612fc" />
-
 
 
 ## Задача 2.  
