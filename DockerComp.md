@@ -70,15 +70,21 @@ https://github.com/zhelanovalex/shvirtd-example-python/blob/main/compose.yaml
 <img width="1470" height="221" alt="image" src="https://github.com/user-attachments/assets/85c871c6-5176-40e1-9495-cd9a130acb41" />
 
 ## Задача 6.
-#### Скачиваем образ
+#### Скачивать образ.
 <img width="857" height="146" alt="image" src="https://github.com/user-attachments/assets/5835f763-1337-437c-84b2-e5495f4c1c6f" />
 
-#### Запускаем dive и определяем идентификатор слоя
+#### Запустить dive и определить идентификатор слоя.
 <img width="1586" height="919" alt="image" src="https://github.com/user-attachments/assets/d3f9a828-25c2-408b-9064-e6314ff1653a" />
 
-#### Сохраняем image в tar file.
+#### Сохранить image в tar file.
 <img width="1051" height="401" alt="image" src="https://github.com/user-attachments/assets/ceb6f432-8036-4a52-a887-a8c34db06f2a" />
 
-#### Распаковываем нужный слой.
+#### Распаковывать нужный слой.
 <img width="1086" height="491" alt="image" src="https://github.com/user-attachments/assets/bb8fe84f-4602-4c4f-a792-a498152afcd5" />
 
+## Задача 6.1.
+#### Создать контейнер без запска.
+<img width="918" height="117" alt="image" src="https://github.com/user-attachments/assets/f5684ec9-1a87-4b1f-a589-9c461e3f65d6" />
+
+#### Скопировать из контейнера необходимый файл.
+<img width="966" height="200" alt="image" src="https://github.com/user-attachments/assets/4e0c4880-4c58-4676-a45a-8d1b7a868768" />
