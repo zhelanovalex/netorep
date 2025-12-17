@@ -28,7 +28,6 @@ https://github.com/zhelanovalex/shvirtd-example-python/blob/main/Dockerfile.pyth
 <img width="845" height="47" alt="image" src="https://github.com/user-attachments/assets/c496b55f-a1e9-47aa-82f6-b43fb6062ea1" />
 <img width="865" height="197" alt="image" src="https://github.com/user-attachments/assets/0e6f229f-297d-41b1-94f1-02464f9612fc" />
 
-
 ## Задача 2.  
 ### 1 Задание.  
 #### Создание yandex cloud container репозиторий. 
