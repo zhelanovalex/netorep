@@ -69,4 +69,12 @@ https://github.com/zhelanovalex/shvirtd-example-python/blob/main/compose.yaml
 <img width="783" height="100" alt="image" src="https://github.com/user-attachments/assets/1f1f7b2b-be23-4176-89a8-65da88e51911" />
 <img width="1470" height="221" alt="image" src="https://github.com/user-attachments/assets/85c871c6-5176-40e1-9495-cd9a130acb41" />
 
-## Задача 5.
+## Задача 6.
+#### Скачиваем образ
+<img width="857" height="146" alt="image" src="https://github.com/user-attachments/assets/5835f763-1337-437c-84b2-e5495f4c1c6f" />
+
+#### Запускаем dive и определяем идентификатор слоя
+<img width="1586" height="919" alt="image" src="https://github.com/user-attachments/assets/d3f9a828-25c2-408b-9064-e6314ff1653a" />
+
+#### Запускаем dive и определяем идентификатор слоя
+
