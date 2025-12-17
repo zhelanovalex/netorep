@@ -52,9 +52,12 @@ https://github.com/zhelanovalex/shvirtd-example-python/blob/main/Dockerfile.pyth
 <img width="1085" height="115" alt="image" src="https://github.com/user-attachments/assets/9006668b-9833-4d50-9cdd-78504c0a9831" />
 
 ## Задача 3.  
+####  Запуск проекта.
+<img width="1531" height="715" alt="image" src="https://github.com/user-attachments/assets/93f88cb6-84cd-4d00-94c8-89157632de07" />
 
+#### Cкриншот sql-запроса.
+<img width="875" height="836" alt="image" src="https://github.com/user-attachments/assets/88512da1-efb4-4136-91d0-821225d0b69a" />
 
-<img width="1107" height="773" alt="image" src="https://github.com/user-attachments/assets/4b26d84c-a2cd-410e-b539-a4113bc038cb" />
 
 **/DOCKER_TEST# docker run --name zhelanov-custom-nginx-t2 -d -p 8080:80 zzugly/custom-nginx:1.0.0**  
 Unable to find image 'zzugly/custom-nginx:1.0.0' locally  
