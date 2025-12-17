@@ -76,6 +76,9 @@ https://github.com/zhelanovalex/shvirtd-example-python/blob/main/compose.yaml
 #### Запускаем dive и определяем идентификатор слоя
 <img width="1586" height="919" alt="image" src="https://github.com/user-attachments/assets/d3f9a828-25c2-408b-9064-e6314ff1653a" />
 
-#### Запускаем dive и определяем идентификатор слоя
+#### Сохраняем image в tar file.
 <img width="1051" height="401" alt="image" src="https://github.com/user-attachments/assets/ceb6f432-8036-4a52-a887-a8c34db06f2a" />
+
+#### Распаковываем нужный слой.
+<img width="1086" height="491" alt="image" src="https://github.com/user-attachments/assets/bb8fe84f-4602-4c4f-a792-a498152afcd5" />
 
