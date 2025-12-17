@@ -21,8 +21,7 @@ https://github.com/zhelanovalex/shvirtd-example-python/blob/main/Dockerfile.pyth
 
 ### 3 Задание.
 #### Запуск базы.  
-<img width="1602" height="248" alt="image" src="https://github.com/user-attachments/assets/9b26ec93-050c-4329-9eb2-6db3115537ee" />
-<img width="950" height="135" alt="image" src="https://github.com/user-attachments/assets/8358b331-adc7-4bfb-a5b4-cb3479999818" />
+<img width="1036" height="390" alt="image" src="https://github.com/user-attachments/assets/6d680ce7-d4f1-4c9e-ae2e-5dedbec2179d" />
 
 #### Запуск приложения. 
 <img width="964" height="17" alt="image" src="https://github.com/user-attachments/assets/b375284a-68ba-4dd3-a130-dcb59d702a5b" />  
@@ -32,23 +31,23 @@ https://github.com/zhelanovalex/shvirtd-example-python/blob/main/Dockerfile.pyth
 
 ## Задача 2.  
 ### 1 Задание.  
-
+#### Создание yandex cloud container репозиторий. 
 <img width="790" height="232" alt="image" src="https://github.com/user-attachments/assets/e383e3b7-491b-4fd3-82a1-fbb54d12c17d" />
 
 ### 2 Задание.
-
+#### Настройка аутентификации локального docker в yandex container репозиторий.
 <img width="808" height="244" alt="image" src="https://github.com/user-attachments/assets/8ab2763a-b668-4397-95e5-7b9e1b7817fb" />
 
 ### 3 Задание.
-
+#### Заливка учебного образа с python в yandex container репозиторий.
 <img width="944" height="354" alt="image" src="https://github.com/user-attachments/assets/ee881eb1-ac33-49e2-9bc7-2868ffcffcf8" />
 
 ### 4 Задание.
-
+#### Cканирование образа в yandex container репозитории на уязвимости.
 <img width="965" height="277" alt="image" src="https://github.com/user-attachments/assets/0bc7bed7-bfcd-41e2-9b6b-fb9defac1592" />
 
 ### 5 Задание.
-
+####  Отчет сканирования.
 <img width="1234" height="982" alt="image" src="https://github.com/user-attachments/assets/7630a95b-7701-462d-9e01-1b647ea50156" />
 <img width="1085" height="115" alt="image" src="https://github.com/user-attachments/assets/9006668b-9833-4d50-9cdd-78504c0a9831" />
 
