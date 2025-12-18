@@ -64,7 +64,7 @@ https://github.com/zhelanovalex/shvirtd-example-python/blob/main/compose.yaml
 #### Запущена в Yandex Cloud ВМ.
 <img width="1551" height="282" alt="image" src="https://github.com/user-attachments/assets/bb78d28b-7dfb-4f5c-95ac-533293131436" />
 
-#### Запуск проекта выполнен без скрипта, так пришлось инициализировать подключение yandex cli, и были некоторые уникальности в compose.yaml.
+#### Запуск проекта выполнен без скрипта, так пришлось инициализировать подключение yandex cli, что бы использовать yandex cloud container репозиторий и были некоторые уникальности в compose.yaml.
 <img width="989" height="555" alt="image" src="https://github.com/user-attachments/assets/a714e947-ad77-4193-a84d-689c30cfd4bb" />
 <img width="773" height="975" alt="image" src="https://github.com/user-attachments/assets/1dfd6fbb-2666-443e-97e3-f51c6792ab25" />
 
