@@ -28,6 +28,11 @@ https://github.com/zhelanovalex/shvirtd-example-python/blob/main/Dockerfile.pyth
 <img width="845" height="47" alt="image" src="https://github.com/user-attachments/assets/c496b55f-a1e9-47aa-82f6-b43fb6062ea1" />
 <img width="865" height="197" alt="image" src="https://github.com/user-attachments/assets/0e6f229f-297d-41b1-94f1-02464f9612fc" />
 
+### 4 Задание.
+#### Внести переменную в .env и ссылку на нее в compose.yaml. затем внести исправления в main.py.
+<img width="860" height="326" alt="image" src="https://github.com/user-attachments/assets/a8c33bbb-9894-4904-b8b7-0805765cdbb8" />
+<img width="843" height="612" alt="image" src="https://github.com/user-attachments/assets/4b47d655-3ddd-46e3-b731-9b05e363da59" />
+
 ## Задача 2.  
 ### 1 Задание.  
 #### Создание yandex cloud container репозиторий. 
@@ -86,7 +91,7 @@ https://github.com/zhelanovalex/shvirtd-example-python/blob/main/compose.yaml
 <img width="1086" height="491" alt="image" src="https://github.com/user-attachments/assets/bb8fe84f-4602-4c4f-a792-a498152afcd5" />
 
 ## Задача 6.1.
-#### Создать контейнер без запска.
+#### Создать контейнер без запуска.
 <img width="918" height="117" alt="image" src="https://github.com/user-attachments/assets/f5684ec9-1a87-4b1f-a589-9c461e3f65d6" />
 
 #### Скопировать из контейнера необходимый файл.
