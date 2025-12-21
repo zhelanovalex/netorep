@@ -13,9 +13,9 @@
 
 #### Добавление node worker 1 в кластер.
 <img width="1006" height="51" alt="image" src="https://github.com/user-attachments/assets/f281af31-ae2b-41f1-8716-4277b78b57bb" />
+
 #### Добавление node worker 2 в кластер.
 <img width="1066" height="48" alt="image" src="https://github.com/user-attachments/assets/bb880718-51b8-4774-8983-246f92173498" />
 
-
-<img width="1571" height="453" alt="image" src="https://github.com/user-attachments/assets/8bdb08d3-7a14-41c6-b68e-8e2313e42078" />  
-<img width="1111" height="259" alt="image" src="https://github.com/user-attachments/assets/41659547-cce8-4c22-bf3d-db92f4ef9b39" />
+#### Просмотр текущего соятава кластерф.
+<img width="990" height="85" alt="image" src="https://github.com/user-attachments/assets/e61bbf37-61c4-4e14-8b56-21c9e48980e1" />
