@@ -1,10 +1,11 @@
 # netorep
-# Домашнее задание к занятию 5. «Практическое применение Docker»
-## Задача 0.
+# Домашнее задание к занятию 6. «Оркестрация кластером Docker контейнеров на примере Docker Swarm»
+## Задача 1.
 
 ### 1 Задание.
-#### Проверка docker compose.
-<img width="600" height="194" alt="image" src="https://github.com/user-attachments/assets/b60c45b6-260c-43b3-8fbe-21b0f5ab25c5" />  
+#### С помощью parcke cоздано 3 облачные виртуальные машины в одной сети в Яндекс Облаке.
+<img width="1552" height="426" alt="image" src="https://github.com/user-attachments/assets/250611f8-236c-44c2-a028-4fac1f39e0d1" />
+ 
 
 ## Задача 1.
 
