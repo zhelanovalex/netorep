@@ -2,9 +2,11 @@
 # Домашнее задание к занятию 6. «Оркестрация кластером Docker контейнеров на примере Docker Swarm»
 ## Задача 1.
 
-### 1 Задание.
-#### С помощью parcke cоздано 3 облачные виртуальные машины в одной сети в Яндекс Облаке.
-<img width="1552" height="426" alt="image" src="https://github.com/user-attachments/assets/250611f8-236c-44c2-a028-4fac1f39e0d1" />
+### 1-2 Задание.
+#### С помощью packer из образа в котором уже есть Docker, cоздано 3 облачные виртуальные машины в одной сети в Яндекс облаке.
+<img width="775" height="126" alt="image" src="https://github.com/user-attachments/assets/5c676ef8-39da-468c-9477-00cfc07320c4" />
+<img width="802" height="165" alt="image" src="https://github.com/user-attachments/assets/f70fcc45-8fd9-4092-9b70-f7b347eefdbd" />
+
  
 
 ## Задача 1.
