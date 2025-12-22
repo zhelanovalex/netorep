@@ -34,10 +34,25 @@
 #### Просмотр стэка и сервисов.
 <img width="1043" height="407" alt="image" src="https://github.com/user-attachments/assets/d4cd75a7-5ac5-4e92-bbed-0a4552d37f4d" />
 
-#### Просмотр конетейнеров по узлам кластера.
+#### Просмотр контейнеров по узлам кластера.
 <img width="1068" height="53" alt="image" src="https://github.com/user-attachments/assets/d9116eb4-c453-4eba-adab-cb1f7f6615d9" />
 <img width="1250" height="72" alt="image" src="https://github.com/user-attachments/assets/c7e10cd8-7974-4309-917d-5f12f3d9e1ab" />
 <img width="1170" height="99" alt="image" src="https://github.com/user-attachments/assets/a812813a-3692-4182-be95-8cd02340a10d" />
+
+#### Проверка кластера swarm
+#### Выполнить выключение одного узла (worker) кластера.
+<img width="1484" height="376" alt="image" src="https://github.com/user-attachments/assets/43e8c63a-5680-408b-b441-db7e00d56fd4" />
+
+#### Просмотр текущего состава кластера.
+<img width="754" height="84" alt="image" src="https://github.com/user-attachments/assets/f5c6989f-d995-44f6-82ae-9e18bf81d042" />
+
+#### Просмотр стэка и сервисов. Два сервиса с отключенного узла поднялись на первом (worker) узле.
+<img width="1028" height="126" alt="image" src="https://github.com/user-attachments/assets/dab589b8-0d74-4418-ba5b-26fba8d3b30a" />
+<img width="1246" height="134" alt="image" src="https://github.com/user-attachments/assets/7878f30f-3c0c-4020-abc1-55b16fe93899" />
+
+
+
+
 
 
 
