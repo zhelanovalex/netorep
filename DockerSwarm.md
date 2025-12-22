@@ -39,7 +39,7 @@
 <img width="1250" height="72" alt="image" src="https://github.com/user-attachments/assets/c7e10cd8-7974-4309-917d-5f12f3d9e1ab" />
 <img width="1170" height="99" alt="image" src="https://github.com/user-attachments/assets/a812813a-3692-4182-be95-8cd02340a10d" />
 
-#### Проверка кластера swarm
+### Проверка кластера swarm
 #### Выполнить выключение одного узла (worker) кластера.
 <img width="783" height="163" alt="image" src="https://github.com/user-attachments/assets/1b8a183c-29f0-4315-ba7d-b225277d400b" />
 
