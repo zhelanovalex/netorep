@@ -50,6 +50,16 @@
 <img width="1028" height="126" alt="image" src="https://github.com/user-attachments/assets/dab589b8-0d74-4418-ba5b-26fba8d3b30a" />
 <img width="1246" height="134" alt="image" src="https://github.com/user-attachments/assets/7878f30f-3c0c-4020-abc1-55b16fe93899" />
 
+#### Выполнить включение второго узла (worker) кластера.
+<img width="776" height="85" alt="image" src="https://github.com/user-attachments/assets/652adf92-2c00-460d-a770-b496c89cbf10" />
+
+#### Выполнить перемещение искомых сервисов на вернувшийся узел.
+<img width="1056" height="217" alt="image" src="https://github.com/user-attachments/assets/99c0bf72-76b0-4eb5-ba13-09b8b60ae015" />
+<img width="1084" height="322" alt="image" src="https://github.com/user-attachments/assets/61641ba7-62b4-488e-a697-2b825d842cf8" />
+<img width="1186" height="133" alt="image" src="https://github.com/user-attachments/assets/3a1cf202-34c7-4ae9-b483-1b25d5b85129" />
+
+
+
 
 
 
