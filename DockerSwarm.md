@@ -41,7 +41,7 @@
 
 #### Проверка кластера swarm
 #### Выполнить выключение одного узла (worker) кластера.
-<img width="1484" height="376" alt="image" src="https://github.com/user-attachments/assets/43e8c63a-5680-408b-b441-db7e00d56fd4" />
+<img width="783" height="163" alt="image" src="https://github.com/user-attachments/assets/1b8a183c-29f0-4315-ba7d-b225277d400b" />
 
 #### Просмотр текущего состава кластера.
 <img width="754" height="84" alt="image" src="https://github.com/user-attachments/assets/f5c6989f-d995-44f6-82ae-9e18bf81d042" />
