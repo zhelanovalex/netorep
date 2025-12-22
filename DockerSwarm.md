@@ -17,5 +17,32 @@
 #### Добавление node worker 2 в кластер.
 <img width="1066" height="48" alt="image" src="https://github.com/user-attachments/assets/bb880718-51b8-4774-8983-246f92173498" />
 
-#### Просмотр текущего соятава кластерф.
+### 4 Задание.
+#### Просмотр текущего состава кластера.
 <img width="990" height="85" alt="image" src="https://github.com/user-attachments/assets/e61bbf37-61c4-4e14-8b56-21c9e48980e1" />
+
+## Задача 2.
+
+### 1 Задание.
+#### Проект задиплоен просто в виде отдельных 4 сервисов. Как задумано приложение не работает - просто тестируется работа четырех сервисов в кластер swarm.
+#### Создать общий compose.yaml.
+<img width="882" height="981" alt="image" src="https://github.com/user-attachments/assets/872126b6-9c44-4d95-9436-55029af333b3" />
+
+#### Выполнить деплой.
+<img width="917" height="258" alt="image" src="https://github.com/user-attachments/assets/7e96398d-4c63-4678-819c-7dec86c8ece9" />
+
+#### Просмотр стэка и сервисов.
+<img width="1043" height="407" alt="image" src="https://github.com/user-attachments/assets/d4cd75a7-5ac5-4e92-bbed-0a4552d37f4d" />
+
+#### Просмотр конетейнеров по узлам кластера.
+<img width="1068" height="53" alt="image" src="https://github.com/user-attachments/assets/d9116eb4-c453-4eba-adab-cb1f7f6615d9" />
+<img width="1250" height="72" alt="image" src="https://github.com/user-attachments/assets/c7e10cd8-7974-4309-917d-5f12f3d9e1ab" />
+<img width="1170" height="99" alt="image" src="https://github.com/user-attachments/assets/a812813a-3692-4182-be95-8cd02340a10d" />
+
+
+
+
+
+
+
+
