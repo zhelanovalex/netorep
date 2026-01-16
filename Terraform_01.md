@@ -45,6 +45,21 @@
 <img width="1019" height="52" alt="image" src="https://github.com/user-attachments/assets/98602ca8-841c-4c2b-80c8-d07906128bb9" />
 
 
+### 7. Уничтожьте созданные ресурсы с помощью terraform. Убедитесь, что все ресурсы удалены. Приложите содержимое файла terraform.tfstate.
+<img width="800" height="164" alt="image" src="https://github.com/user-attachments/assets/ca48970a-cb04-4eeb-9e02-1a0a7e0647c8" />
+
+### 8. Объясните, почему при этом не был удалён docker-образ nginx:latest. Ответ ОБЯЗАТЕЛЬНО НАЙДИТЕ В ПРЕДОСТАВЛЕННОМ КОДЕ, а затем ОБЯЗАТЕЛЬНО ПОДКРЕПИТЕ строчкой из документации terraform провайдера docker. (ищите в классификаторе resource docker_image )
+
+Выставлен параметр keep_locally = true в описании ресурса docker_image.
+
+<img width="407" height="101" alt="image" src="https://github.com/user-attachments/assets/3bc5e3ef-0f1f-419b-9e78-8ccab1595ffb" />
+<img width="866" height="381" alt="image" src="https://github.com/user-attachments/assets/1c0d72d9-1d53-429d-b82e-53734d7fd5a6" />
+
+
+
+
+
+
 
 
 
