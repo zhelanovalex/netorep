@@ -12,6 +12,15 @@
 ### 2. Проверка docker.
 <img width="565" height="452" alt="image" src="https://github.com/user-attachments/assets/e93eaf1e-29e8-4505-8f5c-944b8bb0e363" />
 
+## Задание 1.
+
+### 1. Перейдите в каталог src. Скачайте все необходимые зависимости, использованные в проекте.
+<img width="718" height="561" alt="image" src="https://github.com/user-attachments/assets/30f4f182-76a7-4b09-8693-d87c18ab6b35" />
+
+### 2. Изучите файл .gitignore. В каком terraform-файле, согласно этому .gitignore, допустимо сохранить личную, секретную информацию?(логины,пароли,ключи,токены итд)
+Согласно данному файлу исключений, допустимо хранить секретную информацию в файлах terraform.tfstate, terraform.tfstate.backup и т.д.  
+<img width="566" height="169" alt="image" src="https://github.com/user-attachments/assets/32f52770-12ba-4b90-b628-4365358d4267" />
+
 
 
 
