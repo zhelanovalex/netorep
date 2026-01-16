@@ -12,6 +12,9 @@
 ### 2. Проверка docker.
 <img width="565" height="452" alt="image" src="https://github.com/user-attachments/assets/e93eaf1e-29e8-4505-8f5c-944b8bb0e363" />
 
+## Внимание!! Обязательно предоставляем на проверку получившийся код в виде ссылки на ваш github-репозиторий!
+https://github.com/zhelanovalex/ter-homeworks
+
 ## Задание 1.
 
 ### 1. Перейдите в каталог src. Скачайте все необходимые зависимости, использованные в проекте.
