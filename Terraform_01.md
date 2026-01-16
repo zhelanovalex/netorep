@@ -59,10 +59,27 @@ https://github.com/zhelanovalex/ter-homeworks
 <img width="866" height="381" alt="image" src="https://github.com/user-attachments/assets/1c0d72d9-1d53-429d-b82e-53734d7fd5a6" />
 
 
+## Задание 2.
 
+### 1. Создайте в облаке ВМ.
+<img width="784" height="111" alt="image" src="https://github.com/user-attachments/assets/b9e32478-abcc-4be2-9275-8446d66ebb38" />
 
+### 2. Подключитесь к ВМ по ssh и установите стек docker.
+<img width="597" height="470" alt="image" src="https://github.com/user-attachments/assets/c1c3cd03-7ba8-45d4-8102-89a7a8cc1afd" />
 
+### 3. Найдите в документации docker provider способ настроить подключение terraform на вашей рабочей станции к remote docker context вашей ВМ через ssh.
+<img width="918" height="72" alt="image" src="https://github.com/user-attachments/assets/85ba718f-bf42-4c8f-85a9-75483d76acbc" />
 
+### 4. Используя terraform и remote docker context, скачайте и запустите на вашей ВМ контейнер mysql:8 на порту 127.0.0.1:3306, передайте ENV-переменные. Сгенерируйте разные пароли через random_password и передайте их в контейнер, используя интерполяцию из примера с nginx.
+<img width="1084" height="204" alt="image" src="https://github.com/user-attachments/assets/a611c75c-dbe2-4998-9412-cdfc6e3989ec" />
+<img width="838" height="184" alt="image" src="https://github.com/user-attachments/assets/dca9ba8c-7b5c-4fa4-a9e3-1cbc7c1921b0" />
+<img width="1159" height="99" alt="image" src="https://github.com/user-attachments/assets/02119a72-a258-4465-bef9-590165692413" />
+
+### 5. Зайдите на вашу ВМ , подключитесь к контейнеру и проверьте наличие секретных env-переменных с помощью команды env. Запишите ваш финальный код в репозиторий.
+<img width="1181" height="324" alt="image" src="https://github.com/user-attachments/assets/2105f8a5-cd6e-455c-9f23-044e53dce560" />  
+
+Проект лежит в каталоге    
+https://github.com/zhelanovalex/ter-homeworks/tree/main/01/src_mysql
 
 
 
