@@ -37,6 +37,15 @@
 <img width="748" height="643" alt="image" src="https://github.com/user-attachments/assets/3d65a18f-fc6d-49e9-b780-db281d495dda" />
 <img width="1112" height="52" alt="image" src="https://github.com/user-attachments/assets/744e736f-2026-407d-8ac4-db98be61b74a" />
 
+### 6. Замените имя docker-контейнера в блоке кода на hello_world. Не перепутайте имя контейнера и имя образа. Мы всё ещё продолжаем использовать name = "nginx:latest". Выполните команду terraform apply -auto-approve. Объясните своими словами, в чём может быть опасность применения ключа -auto-approve. Догадайтесь или нагуглите зачем может пригодиться данный ключ? В качестве ответа дополнительно приложите вывод команды docker ps.
+
+Данный ключ подразумевает отсутствие контороля и проверки, что может быть опасно при ошибках в плане.  
+Подходит для скриптов, где естественно нет введения подтверждений.   
+
+<img width="1019" height="52" alt="image" src="https://github.com/user-attachments/assets/98602ca8-841c-4c2b-80c8-d07906128bb9" />
+
+
+
 
 
 
