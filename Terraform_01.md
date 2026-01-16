@@ -21,6 +21,25 @@
 Согласно данному файлу исключений, допустимо хранить секретную информацию в файлах terraform.tfstate, terraform.tfstate.backup и т.д.  
 <img width="566" height="169" alt="image" src="https://github.com/user-attachments/assets/32f52770-12ba-4b90-b628-4365358d4267" />
 
+### 3. Выполните код проекта. Найдите в state-файле секретное содержимое созданного ресурса random_password, пришлите в качестве ответа конкретный ключ и его значение.
+<img width="583" height="149" alt="image" src="https://github.com/user-attachments/assets/33d3a1a0-bd65-49d9-a9fb-6bee9855b171" />
+
+### 4. Раскомментируйте блок кода, примерно расположенный на строчках 29–42 файла main.tf. Выполните команду terraform validate. Объясните, в чём заключаются намеренно допущенные ошибки. Исправьте их.
+<img width="783" height="612" alt="image" src="https://github.com/user-attachments/assets/8147e5d8-ffc1-4e6b-ada0-60af217f23e7" />  
+
+1. Текущая версия terraform не поддерживает версию 1.12.0.  
+2. Должно быть указано имя ресурса.  
+3. Имя ресурса не должно начинаться с цифры.  
+4. Не совпадает имя ресурса и ссылка на него.  
+5. Опечатка в букве.
+
+### 5. Выполните код. В качестве ответа приложите: исправленный фрагмент кода и вывод команды docker ps.
+<img width="748" height="643" alt="image" src="https://github.com/user-attachments/assets/3d65a18f-fc6d-49e9-b780-db281d495dda" />
+<img width="1112" height="52" alt="image" src="https://github.com/user-attachments/assets/744e736f-2026-407d-8ac4-db98be61b74a" />
+
+
+
+
 
 
 
