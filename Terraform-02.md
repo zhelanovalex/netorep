@@ -18,6 +18,11 @@
 <img width="1443" height="305" alt="image" src="https://github.com/user-attachments/assets/8e75d13b-0e56-4ec8-a933-cc551b21919f" />
 <img width="971" height="128" alt="image" src="https://github.com/user-attachments/assets/5aaa3291-7eb2-4708-ba82-013aac39ff3b" />
 
+Намеренно допущенные синтаксические ошибки это:  
+1. В файле variables.tf не указаны переменные "cloud_id" и "folder_id" - terraform треьует их введения при запуске apply.
+2. В файле providers.tf ошибка в переменной service_account_key_file = file("~/.authorized_key.json")
+3. В файле main.tf ошибка в описании ресурса resource "yandex_compute_instance" "platform". platform_id = "standarе-v4" - такой платформы нет в yandex облаке. cores         = 1 - такое коллическтво CPU не поддерживает выбранная платформа - минимум 2 должно быть.
+
 ### 5. Подключитесь к консоли ВМ через ssh и выполните команду  curl ifconfig.me. Подключитесь к консоли ВМ через ssh и выполните команду  curl ifconfig.me. 
 <img width="853" height="724" alt="image" src="https://github.com/user-attachments/assets/86efd457-f8c7-477b-8964-9503d849cde0" />
 
