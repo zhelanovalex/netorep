@@ -39,3 +39,14 @@
 3. Экономит средлства, так как это самая дешевая опция CPU для VM.
 
 ## Задание 2
+
+### 1. Замените все хардкод-значения для ресурсов yandex_compute_image и yandex_compute_instance на отдельные переменные. К названиям переменных ВМ добавьте в начало префикс vm_web_ . Пример: vm_web_name.
+<img width="935" height="413" alt="image" src="https://github.com/user-attachments/assets/221a7251-ae58-403b-aeca-a747e8e40b51" />
+
+### 2. Объявите нужные переменные в файле variables.tf, обязательно указывайте тип переменной. Заполните их default прежними значениями из main.tf.
+<img width="522" height="449" alt="image" src="https://github.com/user-attachments/assets/808deb4c-f644-4231-be24-3ce04fd9d675" />
+
+### 3. Проверьте terraform plan. Изменений быть не должно.
+<img width="1047" height="211" alt="image" src="https://github.com/user-attachments/assets/842a6aba-b8d3-4204-bef7-4d48910bdf1d" />
+
+## Задание 3
