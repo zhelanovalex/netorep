@@ -16,13 +16,26 @@
 ### 4. Инициализируйте проект, выполните код. Исправьте намеренно допущенные синтаксические ошибки. Ищите внимательно, посимвольно. Ответьте, в чём заключается их суть..
 <img width="736" height="596" alt="image" src="https://github.com/user-attachments/assets/5aad92cb-ec80-4c93-bf54-6d5cc32d9d90" />
 <img width="1443" height="305" alt="image" src="https://github.com/user-attachments/assets/8e75d13b-0e56-4ec8-a933-cc551b21919f" />
-<img width="971" height="128" alt="image" src="https://github.com/user-attachments/assets/5aaa3291-7eb2-4708-ba82-013aac39ff3b" />
+<img width="971" height="128" alt="image" src="https://github.com/user-attachments/assets/5aaa3291-7eb2-4708-ba82-013aac39ff3b" />  
 
-Намеренно допущенные синтаксические ошибки это:  
-1. В файле variables.tf не указаны переменные "cloud_id" и "folder_id" - terraform треьует их введения при запуске apply.
+
+Намеренно допущенные синтаксические ошибки это:
+1. В файле variables.tf не указаны переменные "cloud_id" и "folder_id" - terraform требует их введения при запуске apply.
 2. В файле providers.tf ошибка в переменной service_account_key_file = file("~/.authorized_key.json")
 3. В файле main.tf ошибка в описании ресурса resource "yandex_compute_instance" "platform". platform_id = "standarе-v4" - такой платформы нет в yandex облаке. cores         = 1 - такое коллическтво CPU не поддерживает выбранная платформа - минимум 2 должно быть.
 
 ### 5. Подключитесь к консоли ВМ через ssh и выполните команду  curl ifconfig.me. Подключитесь к консоли ВМ через ssh и выполните команду  curl ifconfig.me. 
 <img width="853" height="724" alt="image" src="https://github.com/user-attachments/assets/86efd457-f8c7-477b-8964-9503d849cde0" />
+
+### 6. Ответьте, как в процессе обучения могут пригодиться параметры preemptible = true и core_fraction=5 в параметрах ВМ.
+
+Параметр preemptible = true полезен тем что:
+1. Экономит средлства, так как это опция щначительно удешевляет VM.
+2. Привнудительно останавливаются через 24 часа или в случае нехватки ресурсов для обычной виртуальной машины в той же зоне.
+
+Параметр core_fraction=5 полезен тем что:
+1. Подходит для приложений, которые редко обращаются к CPU или имеют постоянную, но очень низкую активность.
+2. Подходит для тестовых систем и систем разработки, где не нужна производительность.
+3. Экономит средлства, так как это самая дешевая опция CPU для VM.
+
 
