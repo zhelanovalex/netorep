@@ -58,7 +58,7 @@
 <img width="963" height="154" alt="image" src="https://github.com/user-attachments/assets/119919fe-5dff-4f2d-87db-d6dde07066d4" />
 
 ## Задание 4
-### 1. Объявите в файле outputs.tf один output , содержащий: instance_name, external_ip, fqdn для каждой из ВМ в удобном лично для вас формате.(без хардкода!!!)
+### 1. Объявите в файле outputs.tf один output , содержащий: instance_name, external_ip, fqdn для каждой из ВМ в удобном лично для вас формате.
 <img width="1397" height="136" alt="image" src="https://github.com/user-attachments/assets/7a2bf520-964f-42c5-8de4-87a8ea5b4de2" />
 
 ### 2. Примените изменения.
