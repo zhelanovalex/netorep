@@ -65,3 +65,16 @@
 <img width="544" height="288" alt="image" src="https://github.com/user-attachments/assets/5b101155-6cc0-4db3-a499-16c9ab6d2c2a" />
 <img width="547" height="181" alt="image" src="https://github.com/user-attachments/assets/dee71fb3-20d6-4b75-9349-2761cb3567a3" />
 
+## Задание 5
+### 1. В файле locals.tf опишите в одном local-блоке имя каждой ВМ, используйте интерполяцию ${..} с НЕСКОЛЬКИМИ переменными по примеру из лекции.
+<img width="884" height="101" alt="image" src="https://github.com/user-attachments/assets/1c1e995b-5131-4253-bb1c-4b6f55ecb58a" />
+
+### 2. Замените переменные внутри ресурса ВМ на созданные вами local-переменные.
+<img width="633" height="107" alt="image" src="https://github.com/user-attachments/assets/85d51a33-83ed-4d06-8670-7c36fa45e501" />
+
+### 3. Примените изменения.
+<img width="1000" height="694" alt="image" src="https://github.com/user-attachments/assets/7b32e16b-dc4a-4cb7-9902-a663a72a3279" />
+
+
+
+
