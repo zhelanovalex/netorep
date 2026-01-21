@@ -1,5 +1,6 @@
 # netorep
 # Домашнее задание к занятию «Основы Terraform. Yandex Cloud»
+https://github.com/zhelanovalex/ter-homeworks/tree/main/02/src
 
 ## Задание 1
 
