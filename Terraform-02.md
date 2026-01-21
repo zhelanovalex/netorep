@@ -75,6 +75,26 @@
 ### 3. Примените изменения.
 <img width="1000" height="694" alt="image" src="https://github.com/user-attachments/assets/7b32e16b-dc4a-4cb7-9902-a663a72a3279" />
 
+## Задание 6
+### 1. Вместо использования трёх переменных ".._cores",".._memory",".._core_fraction" в блоке resources {...}, объедините их в единую map-переменную vms_resources и внутри неё конфиги обеих ВМ в виде вложенного map(object).
+<img width="567" height="308" alt="image" src="https://github.com/user-attachments/assets/79965302-af30-404f-9a8b-9ea8a1c9adcb" />
+<img width="667" height="119" alt="image" src="https://github.com/user-attachments/assets/1c288e34-68e6-42f3-94a3-fa4aa51d24e1" />
+
+### 2. Создайте и используйте отдельную map(object) переменную для блока metadata, она должна быть общая для всех ваших ВМ.
+<img width="1012" height="179" alt="image" src="https://github.com/user-attachments/assets/2f5358d6-2e2e-4ccd-95c1-826efa661981" />
+<img width="721" height="87" alt="image" src="https://github.com/user-attachments/assets/69df7a01-9bdf-40ed-986c-2f77362a47fa" />
+
+### 3. Найдите и закоментируйте все, более не используемые переменные проекта.
+<img width="913" height="152" alt="image" src="https://github.com/user-attachments/assets/f3a240e9-1e32-4d85-a794-c3bd00a7626f" />
+<img width="552" height="102" alt="image" src="https://github.com/user-attachments/assets/45660e02-36ea-4225-ab8c-6c24567a8454" />
+
+### 4. Проверьте terraform plan. Изменений быть не должно.
+<img width="1037" height="234" alt="image" src="https://github.com/user-attachments/assets/838e7617-b7b0-4559-8bc8-79df492e11dd" />
+
+
+
+
+
 
 
 
