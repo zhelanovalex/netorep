@@ -88,8 +88,26 @@
 <img width="913" height="152" alt="image" src="https://github.com/user-attachments/assets/f3a240e9-1e32-4d85-a794-c3bd00a7626f" />
 <img width="552" height="102" alt="image" src="https://github.com/user-attachments/assets/45660e02-36ea-4225-ab8c-6c24567a8454" />
 
-### 4. Проверьте terraform plan. Изменений быть не должно.
+<img width="218" height="85" alt="image" src="https://github.com/user-attachments/assets/8515642e-de20-4a64-b704-368233b3f1d7" />
+Проверьте terraform plan. Изменений быть не должно.
 <img width="1037" height="234" alt="image" src="https://github.com/user-attachments/assets/838e7617-b7b0-4559-8bc8-79df492e11dd" />
+
+## Задание 7. Изучите содержимое файла console.tf. Откройте terraform console, выполните следующие задания:
+### 1. Напишите, какой командой можно отобразить второй элемент списка test_list.
+<img width="221" height="92" alt="image" src="https://github.com/user-attachments/assets/a067e5cd-c821-4b60-8a5d-68e1dac1d6d5" />
+
+### 2. Найдите длину списка test_list с помощью функции length(<имя переменной>).
+<img width="226" height="86" alt="image" src="https://github.com/user-attachments/assets/b57d47e6-8a18-43a3-98d4-2cbf53dabeb8" />
+
+### 3. Напишите, какой командой можно отобразить значение ключа admin из map test_map.
+<img width="218" height="85" alt="image" src="https://github.com/user-attachments/assets/c76314c8-ba22-47fd-aab9-93fd9efcc8ca" />
+
+### 4. Напишите interpolation-выражение, результатом которого будет: "John is admin for production server based on OS ubuntu-20-04 with X vcpu, Y ram and Z virtual disks", используйте данные из переменных test_list, test_map, servers и функцию length() для подстановки значений.
+<img width="1172" height="105" alt="image" src="https://github.com/user-attachments/assets/3da91310-0f7f-42e4-bee6-cec49c23b717" />
+
+
+
+
 
 
 
