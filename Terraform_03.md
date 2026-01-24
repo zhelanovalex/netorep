@@ -17,4 +17,6 @@ https://github.com/zhelanovalex/ter-homeworks/tree/main/03/src
 <img width="572" height="785" alt="image" src="https://github.com/user-attachments/assets/4e224428-66bf-40a0-8949-cb2b57360e53" />
 <img width="925" height="560" alt="image" src="https://github.com/user-attachments/assets/8ca6dab7-447b-4cc6-9f7e-c5f27c52a95e" />
 
+## Задание 2
 
+### 1. Изучите проект.
