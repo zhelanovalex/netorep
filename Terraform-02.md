@@ -89,8 +89,7 @@ https://github.com/zhelanovalex/ter-homeworks/tree/main/02/src
 <img width="913" height="152" alt="image" src="https://github.com/user-attachments/assets/f3a240e9-1e32-4d85-a794-c3bd00a7626f" />
 <img width="552" height="102" alt="image" src="https://github.com/user-attachments/assets/45660e02-36ea-4225-ab8c-6c24567a8454" />
 
-<img width="218" height="85" alt="image" src="https://github.com/user-attachments/assets/8515642e-de20-4a64-b704-368233b3f1d7" />
-Проверьте terraform plan. Изменений быть не должно.
+### 4. Проверьте terraform plan. Изменений быть не должно.  
 <img width="1037" height="234" alt="image" src="https://github.com/user-attachments/assets/838e7617-b7b0-4559-8bc8-79df492e11dd" />
 
 ## Задание 7. Изучите содержимое файла console.tf. Откройте terraform console, выполните следующие задания:
