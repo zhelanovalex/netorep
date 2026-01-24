@@ -20,12 +20,10 @@ https://github.com/zhelanovalex/ter-homeworks/tree/main/03/src
 ## Задание 2
 
 ### 1. Создайте файл count-vm.tf. Опишите в нём создание двух одинаковых ВМ web-1 и web-2 (не web-0 и web-1) с минимальными параметрами, используя мета-аргумент count loop. Назначьте ВМ созданную в первом задании группу безопасности.
-<img width="349" height="316" alt="image" src="https://github.com/user-attachments/assets/dbc0570d-4e10-4358-b431-82bf9769605c" />   
-
+<img width="608" height="313" alt="image" src="https://github.com/user-attachments/assets/2f048ebc-a1f9-4f9d-be14-ed1769e00cbb" />
 <img width="647" height="530" alt="image" src="https://github.com/user-attachments/assets/c5b21165-5f33-4ae3-9bd3-16a345ef1a16" />  
 
 ### 2. Создайте файл for_each-vm.tf. Опишите в нём создание двух ВМ для баз данных с именами "main" и "replica" разных по cpu/ram/disk_volume , используя мета-аргумент for_each loop. Используйте для обеих ВМ одну общую переменную/
-<img width="388" height="465" alt="image" src="https://github.com/user-attachments/assets/837fab6d-72fa-4a3b-9764-baba4e62ab41" />  
-
+<img width="678" height="453" alt="image" src="https://github.com/user-attachments/assets/ddd588c4-5dd7-4d90-a941-3f26f61ba924" />
 <img width="611" height="478" alt="image" src="https://github.com/user-attachments/assets/9482ba31-a6a8-4faf-8cd9-e3195e611204" />  
 
