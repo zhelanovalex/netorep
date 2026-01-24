@@ -24,6 +24,6 @@ https://github.com/zhelanovalex/ter-homeworks/tree/main/03/src
 <img width="647" height="530" alt="image" src="https://github.com/user-attachments/assets/c5b21165-5f33-4ae3-9bd3-16a345ef1a16" />  
 
 ### 2. Создайте файл for_each-vm.tf. Опишите в нём создание двух ВМ для баз данных с именами "main" и "replica" разных по cpu/ram/disk_volume , используя мета-аргумент for_each loop. Используйте для обеих ВМ одну общую переменную/
-<img width="678" height="453" alt="image" src="https://github.com/user-attachments/assets/ddd588c4-5dd7-4d90-a941-3f26f61ba924" />
+<img width="648" height="460" alt="image" src="https://github.com/user-attachments/assets/a878e501-dcb5-45d7-8f1f-3cac34bedf4f" />
 <img width="611" height="478" alt="image" src="https://github.com/user-attachments/assets/9482ba31-a6a8-4faf-8cd9-e3195e611204" />  
 
