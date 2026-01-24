@@ -23,7 +23,20 @@ https://github.com/zhelanovalex/ter-homeworks/tree/main/03/src
 <img width="608" height="313" alt="image" src="https://github.com/user-attachments/assets/2f048ebc-a1f9-4f9d-be14-ed1769e00cbb" />
 <img width="647" height="530" alt="image" src="https://github.com/user-attachments/assets/c5b21165-5f33-4ae3-9bd3-16a345ef1a16" />  
 
-### 2. Создайте файл for_each-vm.tf. Опишите в нём создание двух ВМ для баз данных с именами "main" и "replica" разных по cpu/ram/disk_volume , используя мета-аргумент for_each loop. Используйте для обеих ВМ одну общую переменную/
+### 2. Создайте файл for_each-vm.tf. Опишите в нём создание двух ВМ для баз данных с именами "main" и "replica" разных по cpu/ram/disk_volume , используя мета-аргумент for_each loop. Используйте для обеих ВМ одну общую переменную.
 <img width="648" height="460" alt="image" src="https://github.com/user-attachments/assets/a878e501-dcb5-45d7-8f1f-3cac34bedf4f" />
 <img width="611" height="478" alt="image" src="https://github.com/user-attachments/assets/9482ba31-a6a8-4faf-8cd9-e3195e611204" />  
+
+### 5. Используйте функцию file в local-переменной для считывания ключа ~/.ssh/id_rsa.pub и его последующего использования в блоке metadata.
+<img width="653" height="94" alt="image" src="https://github.com/user-attachments/assets/6577cbb5-e0ab-4a8c-b964-7ea97e649abe" />
+
+### 6. Инициализируйте проект, выполните код.
+<img width="933" height="627" alt="image" src="https://github.com/user-attachments/assets/d449d48e-5a44-4423-965a-fc515abb4fe6" />
+<img width="939" height="174" alt="image" src="https://github.com/user-attachments/assets/e3873135-d1df-4cb0-b96b-24d925a1f2ad" />
+
+#### Проверка назначения ВМ в группу безопасности.
+<img width="948" height="171" alt="image" src="https://github.com/user-attachments/assets/9898a05e-3329-4318-8196-819b7aeccc4e" />
+<img width="834" height="899" alt="image" src="https://github.com/user-attachments/assets/49bbfd1f-5614-424b-aeac-eebea4926237" />
+
+
 
