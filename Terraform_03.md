@@ -1,6 +1,7 @@
 # netorep
 # # Домашнее задание к занятию «Управляющие конструкции в коде Terraform»
 https://github.com/zhelanovalex/ter-homeworks/tree/main/03/src
+#### ID ресурсов на скриншотах могут не совпадаать, так как проект удалялся и запускался несколько раз.
 
 ## Задание 1
 
@@ -53,4 +54,11 @@ https://github.com/zhelanovalex/ter-homeworks/tree/main/03/src
 <img width="875" height="737" alt="image" src="https://github.com/user-attachments/assets/50caaf03-845e-4d11-a918-3dd310bd8546" />
 <img width="826" height="183" alt="image" src="https://github.com/user-attachments/assets/d6952b92-7f82-4cbd-8761-dcb88b3073c5" />
 <img width="836" height="343" alt="image" src="https://github.com/user-attachments/assets/77d13bde-4114-49af-94b2-d788495e7ded" />
+
+## Задание 4
+
+### 1. В файле ansible.tf создайте inventory-файл для ansible. Используйте функцию tepmplatefile и файл-шаблон для создания ansible inventory-файла из лекции.
+<img width="866" height="139" alt="image" src="https://github.com/user-attachments/assets/60ba9711-d644-4a57-a86b-615689b078cd" />
+<img width="893" height="310" alt="image" src="https://github.com/user-attachments/assets/e8e6bc23-0ee9-401f-8729-3d187371fe3c" />
+<img width="985" height="151" alt="image" src="https://github.com/user-attachments/assets/21c72d85-8e6a-495b-a9aa-fc625c74b62f" />
 
