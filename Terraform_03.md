@@ -40,10 +40,16 @@ https://github.com/zhelanovalex/ter-homeworks/tree/main/03/src
 
 ## Задание 3
 
-### 1.Создайте 3 одинаковых виртуальных диска размером 1 Гб с помощью ресурса yandex_compute_disk и мета-аргумента count в файле disk_vm.tf.
+### 1. Создайте 3 одинаковых виртуальных диска размером 1 Гб с помощью ресурса yandex_compute_disk и мета-аргумента count в файле disk_vm.tf.
 <img width="914" height="454" alt="image" src="https://github.com/user-attachments/assets/dd8deb43-62ea-4167-99a2-9e86bf554e61" />
 <img width="714" height="129" alt="image" src="https://github.com/user-attachments/assets/f706f60e-f855-438f-af90-a8969bff7741" />
 <img width="883" height="178" alt="image" src="https://github.com/user-attachments/assets/459bf8fd-be3d-4bce-a968-6983d532154e" />
 <img width="1133" height="215" alt="image" src="https://github.com/user-attachments/assets/28e5c06c-d28a-4719-acee-f44bb22e0c01" />
+<img width="954" height="127" alt="image" src="https://github.com/user-attachments/assets/dfa391c8-2c2b-4214-8826-d79867a1dca8" />
 
+### 2. Создайте в том же файле одиночную(использовать count или for_each запрещено из-за задания №4) ВМ c именем "storage" . Используйте блок dynamic secondary_disk{..} и мета-аргумент for_each для подключения созданных вами дополнительных дисков.
+<img width="772" height="657" alt="image" src="https://github.com/user-attachments/assets/7d2ee62d-cdd3-4b8d-9673-11b6d214a112" />
+<img width="875" height="737" alt="image" src="https://github.com/user-attachments/assets/50caaf03-845e-4d11-a918-3dd310bd8546" />
+<img width="826" height="183" alt="image" src="https://github.com/user-attachments/assets/d6952b92-7f82-4cbd-8761-dcb88b3073c5" />
+<img width="836" height="343" alt="image" src="https://github.com/user-attachments/assets/77d13bde-4114-49af-94b2-d788495e7ded" />
 
