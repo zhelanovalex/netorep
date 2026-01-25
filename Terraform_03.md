@@ -40,7 +40,8 @@ https://github.com/zhelanovalex/ter-homeworks/tree/main/03/src
 
 ## Задание 3
 
-### 1.Создайте 3 одинаковых виртуальных диска размером 1 Гб с помощью ресурса yandex_compute_disk и мета-аргумента count в файле disk_vm.tf .
+### 1.Создайте 3 одинаковых виртуальных диска размером 1 Гб с помощью ресурса yandex_compute_disk и мета-аргумента count в файле disk_vm.tf.
+<img width="914" height="454" alt="image" src="https://github.com/user-attachments/assets/dd8deb43-62ea-4167-99a2-9e86bf554e61" />
 <img width="714" height="129" alt="image" src="https://github.com/user-attachments/assets/f706f60e-f855-438f-af90-a8969bff7741" />
 <img width="883" height="178" alt="image" src="https://github.com/user-attachments/assets/459bf8fd-be3d-4bce-a968-6983d532154e" />
 <img width="1133" height="215" alt="image" src="https://github.com/user-attachments/assets/28e5c06c-d28a-4719-acee-f44bb22e0c01" />
