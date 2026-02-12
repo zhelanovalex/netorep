@@ -44,3 +44,9 @@ https://github.com/zhelanovalex/mnt-homeworks
 
 ### 11. Запустите playbook на окружении prod.yml. При запуске ansible должен запросить у вас пароль. Убедитесь, что факты some_fact для каждого из хостов определены из верных group_vars.
 <img width="1196" height="598" alt="image" src="https://github.com/user-attachments/assets/2e431c8e-bb0d-4bae-abca-65b642be878a" />
+
+### 12. Заполните README.md ответами на вопросы. Сделайте git push в ветку master. В ответе отправьте ссылку на ваш открытый репозиторий с изменённым playbook и заполненным README.md.
+#### Cсылка на репозиторий с изменённым playbook
+https://github.com/zhelanovalex/mnt-homeworks/tree/MNT-video/08-ansible-01-base/playbook
+#### Файл с домашним заданием
+https://github.com/zhelanovalex/netorep/edit/main/Ansible_01.md
