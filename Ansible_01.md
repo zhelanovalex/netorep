@@ -1,6 +1,5 @@
 # netorep
 # Домашнее задание к занятию 1 «Введение в Ansible»
-https://github.com/zhelanovalex/ter-homeworks/tree/main/02/src
 
 ## Подготовка к выполнению
 ### 1. Установите Ansible версии 2.10 или выше.
