@@ -30,4 +30,17 @@ https://github.com/zhelanovalex/mnt-homeworks
 ### 6. Повторите запуск playbook на окружении prod.yml. Убедитесь, что выдаются корректные значения для всех хостов.
 <img width="983" height="450" alt="image" src="https://github.com/user-attachments/assets/8ff9ada9-6139-42c0-baa3-255606701c89" />
 
+### 7. При помощи ansible-vault зашифруйте факты в group_vars/deb и group_vars/el с паролем netology.
+<img width="948" height="162" alt="image" src="https://github.com/user-attachments/assets/e07628d9-74aa-42ef-ac67-3e33b7287022" />
 
+### 8. Запустите playbook на окружении prod.yml. При запуске ansible должен запросить у вас пароль. Убедитесь в работоспособности.
+<img width="1123" height="461" alt="image" src="https://github.com/user-attachments/assets/a783baff-eaeb-49fb-8e32-b19a3ac5efe3" />
+
+### 9. Посмотрите при помощи ansible-doc список плагинов для подключения. Выберите подходящий для работы на control node.
+<img width="858" height="532" alt="image" src="https://github.com/user-attachments/assets/e2e72357-e259-41d2-b309-5fe8b3f76004" />
+
+### 10. В prod.yml добавьте новую группу хостов с именем local, в ней разместите localhost с необходимым типом подключения.
+<img width="797" height="230" alt="image" src="https://github.com/user-attachments/assets/796b8996-7e98-4ca9-8ea0-51c081aafe58" />
+
+### 11. Запустите playbook на окружении prod.yml. При запуске ansible должен запросить у вас пароль. Убедитесь, что факты some_fact для каждого из хостов определены из верных group_vars.
+<img width="1196" height="598" alt="image" src="https://github.com/user-attachments/assets/2e431c8e-bb0d-4bae-abca-65b642be878a" />
