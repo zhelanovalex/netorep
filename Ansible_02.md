@@ -15,3 +15,12 @@
 <img width="1482" height="429" alt="image" src="https://github.com/user-attachments/assets/52f4112a-8928-4a23-b10b-4e814d43036d" />
 #### Не может установить clickhouse, так как пакет не скачен.
 
+### Запустите playbook на prod.yml окружении с флагом --diff. Убедитесь, что изменения на системе произведены.
+<img width="1463" height="996" alt="image" src="https://github.com/user-attachments/assets/bee7e1c3-ef94-4cca-b1b0-4fc654a97aa6" />
+<img width="1135" height="316" alt="image" src="https://github.com/user-attachments/assets/c736f9d7-de66-4fef-9a9b-8e1cc4eda0f1" />
+<img width="1341" height="383" alt="image" src="https://github.com/user-attachments/assets/3fbbdd33-add7-4af9-802e-12119b3be921" />
+
+### Повторно запустите playbook с флагом --diff и убедитесь, что playbook идемпотентен.
+<img width="1457" height="759" alt="image" src="https://github.com/user-attachments/assets/1cd0ca28-1b6c-45fa-862f-45d8594183cf" />
+
+
