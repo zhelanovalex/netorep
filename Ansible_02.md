@@ -23,4 +23,6 @@
 ### Повторно запустите playbook с флагом --diff и убедитесь, что playbook идемпотентен.
 <img width="1457" height="759" alt="image" src="https://github.com/user-attachments/assets/1cd0ca28-1b6c-45fa-862f-45d8594183cf" />
 
+### Готовый playbook выложите в свой репозиторий.
+https://github.com/zhelanovalex/mnt-homeworks/tree/MNT-video/08-ansible-02-playbook/playbook
 
