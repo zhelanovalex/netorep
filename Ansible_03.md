@@ -9,7 +9,7 @@
 ### Допишите playbook: нужно сделать ещё один play, который устанавливает и настраивает LightHouse.
 
 #### Рабочий playbook был переработан для связи всех указанных приложений.
-https://github.com/zhelanovalex/mnt-homeworks/blob/MNT-video/08-ansible-03-yandex/site.yml  
+https://github.com/zhelanovalex/mnt-homeworks/blob/MNT-video/08-ansible-03-yandex/playbook/site.yml
 
 ##### Рабочий playbook выполнет следующие действия.
 ##### На сервере clickhouse.
