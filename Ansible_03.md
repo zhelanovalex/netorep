@@ -58,4 +58,6 @@ https://github.com/zhelanovalex/mnt-homeworks/blob/MNT-video/08-ansible-03-yande
 #### Lighthouse + nginx. Коннект к clickhouse есть.
 <img width="1342" height="605" alt="image" src="https://github.com/user-attachments/assets/54d82daf-2318-4d94-acf5-67506400c5d7" />
 
+### Повторно запустите playbook с флагом --diff и убедитесь, что playbook идемпотентен.
+<img width="1018" height="87" alt="image" src="https://github.com/user-attachments/assets/3bc2626f-46cc-4402-b163-0422fda46800" />
 
