@@ -61,3 +61,5 @@ https://github.com/zhelanovalex/mnt-homeworks/blob/MNT-video/08-ansible-03-yande
 ### Повторно запустите playbook с флагом --diff и убедитесь, что playbook идемпотентен.
 <img width="1018" height="87" alt="image" src="https://github.com/user-attachments/assets/3bc2626f-46cc-4402-b163-0422fda46800" />
 
+### Готовый playbook выложите в свой репозиторий.
+https://github.com/zhelanovalex/mnt-homeworks/tree/MNT-video/08-ansible-03-yandex/playbook
