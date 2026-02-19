@@ -11,6 +11,28 @@
 #### Рабочий playbook был переработан для связи всех указанных приложений.
 https://github.com/zhelanovalex/mnt-homeworks/blob/MNT-video/08-ansible-03-yandex/site.yml  
 
+##### Рабочий playbook выполнет следующие действия.
+##### На сервере clickhouse.
+##### 1. Загрузка дистрибутивов clickhouse.
+##### 2. Установка clickhouse.
+##### 3. Деплой конфигурационных файлов clickhouse.
+##### 4. Запуск сервиса clickhouse.
+##### 5. Создание базы и таблицы для логов в clickhouse.
+##### На сервере vector.
+##### 1. Загрузка дистрибутивов vector.
+##### 2. Установка vector.
+##### 3. Деплой конфигурационного файла vector.
+##### 4. Деплой конфигурационного файла сервиса vector.
+##### 5. Запуск сервиса vector.
+##### На сервере lighthouse.
+##### 1. Установка nginx.
+##### 2. Деплой конфигурационного файла nginx.
+##### 3. Запуск nginx.
+##### 4. Установка git.
+##### 5. Загрузка lighthouse с github.
+##### 6. Деплой конфигурационного файла lighthouse.
+##### 7. Перезапуск nginx.
+
 #### Были созданы отдельные шаблоны для конфигурационных файлов приложений.
 <img width="635" height="165" alt="image" src="https://github.com/user-attachments/assets/bbcec5d2-f87c-4e3c-b0d7-41e837bca45a" />
 
@@ -19,7 +41,7 @@ https://github.com/zhelanovalex/mnt-homeworks/blob/MNT-video/08-ansible-03-yande
 
 ### Запустите playbook на prod.yml окружении с флагом --diff. Убедитесь, что изменения на системе произведены.
 
-#### Запуoty playbook на prod.yml окружении с флагом --diff. 
+#### Запущен playbook на prod.yml окружении с флагом --diff. 
 
 #### Проведены исправления ошибок - в итоге все изменения на указанных серверах произведены.
 <img width="1070" height="99" alt="image" src="https://github.com/user-attachments/assets/14523346-8efc-4ec7-b009-692463dc6fc9" />
@@ -35,3 +57,5 @@ https://github.com/zhelanovalex/mnt-homeworks/blob/MNT-video/08-ansible-03-yande
 
 #### Lighthouse + nginx. Коннект к clickhouse есть.
 <img width="1342" height="605" alt="image" src="https://github.com/user-attachments/assets/54d82daf-2318-4d94-acf5-67506400c5d7" />
+
+
