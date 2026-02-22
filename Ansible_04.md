@@ -19,4 +19,16 @@ https://github.com/zhelanovalex/Clickhouse_role
 #### root@Uglycomp:/ANSIBLE_TEST/AnsibNeto/08-ansible-04-role/playbook/roles# ansible-galaxy role init lighthouse  
 #### - Role lighthouse was created successfully  
 
-#### - Role lighthouse was created successfully  
+#### На основе tasks из старого playbook заполнены новые role. Разнесены переменные между vars и default.
+
+#### Перенесены нужные шаблоны конфигов в templates.
+
+#### Описаны в README.md обе роли и их параметры. Пример качественной документации ansible role по ссылке.
+
+### Выложены все roles в репозитории. 
+https://github.com/zhelanovalex/Clickhouse_role
+https://github.com/zhelanovalex/Vector_role  
+https://github.com/zhelanovalex/Clickhouse_role  
+
+### Добавьте roles в requirements.yml в playbook.
+
