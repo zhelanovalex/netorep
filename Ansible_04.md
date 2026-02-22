@@ -36,3 +36,7 @@ https://github.com/zhelanovalex/Lighthouse_role
 ### В ответе дайте ссылки на оба репозитория с roles и одну ссылку на репозиторий с playbook.
 https://github.com/zhelanovalex/mnt-homeworks/tree/MNT-video/08-ansible-04-role/playbook  
 
+#### Проведено удаление все трех серверов на Yandex облаке и созданы заново.
+#### Выполнено применение плейбука на новых серверах и проверка фунциоирования приложений.
+
+
