@@ -26,9 +26,13 @@ https://github.com/zhelanovalex/Clickhouse_role
 #### Описаны в README.md обе роли и их параметры. Пример качественной документации ansible role по ссылке.
 
 ### Выложены все roles в репозитории. 
-https://github.com/zhelanovalex/Clickhouse_role
-https://github.com/zhelanovalex/Vector_role  
 https://github.com/zhelanovalex/Clickhouse_role  
+https://github.com/zhelanovalex/Vector_role  
+https://github.com/zhelanovalex/Lighthouse_role  
 
 ### Добавьте roles в requirements.yml в playbook.
+<img width="837" height="230" alt="image" src="https://github.com/user-attachments/assets/d9dbc8ba-7f83-4a97-8416-c0fb11d329d3" />
+
+### В ответе дайте ссылки на оба репозитория с roles и одну ссылку на репозиторий с playbook.
+https://github.com/zhelanovalex/mnt-homeworks/tree/MNT-video/08-ansible-04-role/playbook  
 
