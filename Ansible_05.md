@@ -15,3 +15,4 @@
 
 ### Перейдите в каталог с ролью vector-role и создайте сценарий тестирования по умолчанию при помощи molecule init scenario --driver-name docker.
 <img width="894" height="325" alt="image" src="https://github.com/user-attachments/assets/a55bb575-0594-4bd7-afff-a77432c53f17" />
+
