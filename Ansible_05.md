@@ -29,7 +29,7 @@ https://hub.docker.com/repository/docker/zzugly/centoc_ansib/general
 #### После решения дополнительных проблем с systemd в docker - тестирование роли отработало.
 <img width="1160" height="452" alt="image" src="https://github.com/user-attachments/assets/1d004c3a-94a9-4927-b6d4-a061c7810e65" />
 
-#### Добавьте новый тег "Molecule" на коммит с рабочим сценарием в соответствии с семантическим версионированием.
+#### Добавлен новый тег "Molecule" на коммит с рабочим сценарием в соответствии с семантическим версионированием.
 https://github.com/zhelanovalex/Vector_role
 
 ## Tox
@@ -42,8 +42,14 @@ https://github.com/zhelanovalex/Vector_role
 ### Создайте облегчённый сценарий для molecule с драйвером molecule_podman. Проверьте его на исполнимость.
 <img width="817" height="442" alt="image" src="https://github.com/user-attachments/assets/adbd75cb-a0a8-4bfd-a7a3-34325066391b" />
 
-#### Тестирование роли с помощью tox не удалось. Любые комбинации tox.ini падают с одной ошибкой.
-<img width="1383" height="914" alt="image" src="https://github.com/user-attachments/assets/246f89c4-adf9-462f-9689-c2b164457663" />
+#### Тестирование роли с помощью tox удалось только при использовании docker модуля и в одном сценарии.
+<img width="655" height="224" alt="image" src="https://github.com/user-attachments/assets/fd0dd4fd-1bbc-433e-ae87-6d1ee03e7be3" />
+<img width="1038" height="732" alt="image" src="https://github.com/user-attachments/assets/a13ec86a-78fc-453f-99e1-77d30dcdbc24" />
+
+#### Добавлен новый тег "Tox" на коммит с рабочим сценарием в соответствии с семантическим версионированием.
+https://github.com/zhelanovalex/Vector_role
+
+
 
 
 
