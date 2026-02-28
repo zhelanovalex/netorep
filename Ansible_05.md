@@ -42,5 +42,8 @@ https://github.com/zhelanovalex/Vector_role
 ### Создайте облегчённый сценарий для molecule с драйвером molecule_podman. Проверьте его на исполнимость.
 <img width="817" height="442" alt="image" src="https://github.com/user-attachments/assets/adbd75cb-a0a8-4bfd-a7a3-34325066391b" />
 
+#### Тестирование роли с помощью tox не удалось. Любые комбинации tox.ini падают с одной ошибкой.
+<img width="1383" height="914" alt="image" src="https://github.com/user-attachments/assets/246f89c4-adf9-462f-9689-c2b164457663" />
+
 
 
