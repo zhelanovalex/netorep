@@ -16,3 +16,10 @@
 ### Перейдите в каталог с ролью vector-role и создайте сценарий тестирования по умолчанию при помощи molecule init scenario --driver-name docker.
 <img width="894" height="325" alt="image" src="https://github.com/user-attachments/assets/a55bb575-0594-4bd7-afff-a77432c53f17" />
 
+### Добавьте несколько разных дистрибутивов (oraclelinux:8, ubuntu:latest) для инстансов и протестируйте роль, исправьте найденные ошибки, если они есть.
+#### В связи смногочисленными ошибками для роли пришлось создать отдельный image на основе centos:centos7.9.2009.
+<img width="769" height="377" alt="image" src="https://github.com/user-attachments/assets/dc50bcfd-2093-4cf7-9bed-06f62374098a" />
+#### Ссылка на созданный docker image.
+https://hub.docker.com/repository/docker/zzugly/centoc_ansib/general
+
+
