@@ -19,7 +19,17 @@
 ### Добавьте несколько разных дистрибутивов (oraclelinux:8, ubuntu:latest) для инстансов и протестируйте роль, исправьте найденные ошибки, если они есть.
 #### В связи смногочисленными ошибками для роли пришлось создать отдельный image на основе centos:centos7.9.2009.
 <img width="769" height="377" alt="image" src="https://github.com/user-attachments/assets/dc50bcfd-2093-4cf7-9bed-06f62374098a" />
+
 #### Ссылка на созданный docker image.
 https://hub.docker.com/repository/docker/zzugly/centoc_ansib/general
+
+#### В самой роле пришлось вносить некоторые изменеения, в частности ссылки на inventory playbook, которого нет.
+<img width="793" height="379" alt="image" src="https://github.com/user-attachments/assets/67b54f27-3e40-471e-bd43-58d5664ae1d2" />
+
+#### После решения дополнительных проблем с systemd в docker - тестирование роли отработало.
+<img width="1160" height="452" alt="image" src="https://github.com/user-attachments/assets/1d004c3a-94a9-4927-b6d4-a061c7810e65" />
+
+
+
 
 
