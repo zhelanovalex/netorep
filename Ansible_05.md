@@ -29,7 +29,18 @@ https://hub.docker.com/repository/docker/zzugly/centoc_ansib/general
 #### После решения дополнительных проблем с systemd в docker - тестирование роли отработало.
 <img width="1160" height="452" alt="image" src="https://github.com/user-attachments/assets/1d004c3a-94a9-4927-b6d4-a061c7810e65" />
 
+#### Добавьте новый тег "Molecule" на коммит с рабочим сценарием в соответствии с семантическим версионированием.
+https://github.com/zhelanovalex/Vector_role
 
+## Tox
+### Запустите docker run --privileged=True -v <path_to_repo>:/opt/vector-role -w /opt/vector-role -it aragast/netology:latest /bin/bash, где path_to_repo — путь до корня репозитория с vector-role на вашей файловой системе.
+<img width="1187" height="69" alt="image" src="https://github.com/user-attachments/assets/6e393172-fe36-474d-9603-fd50647eaad1" />
+
+### Внутри контейнера выполните команду tox, посмотрите на вывод.
+<img width="1406" height="488" alt="image" src="https://github.com/user-attachments/assets/6f5631c4-8638-4a7b-9276-ce44cec1f847" />
+
+### Создайте облегчённый сценарий для molecule с драйвером molecule_podman. Проверьте его на исполнимость.
+<img width="817" height="442" alt="image" src="https://github.com/user-attachments/assets/adbd75cb-a0a8-4bfd-a7a3-34325066391b" />
 
 
 
