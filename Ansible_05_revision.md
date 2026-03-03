@@ -48,3 +48,20 @@ https://github.com/zhelanovalex/Vector_role
 
 #### Добавлен новый тег "Tox" на коммит с рабочим сценарием в соответствии с семантическим версионированием.
 https://github.com/zhelanovalex/Vector_role
+
+## Доработка
+### Была ошибка в molecule.yml. В связи с многочисленными итерациями в решение попала ошибочная версия.
+
+### Для чистоты задания был использован рекомендованный Dockerfile.
+https://github.com/marciopaiva/molecule-systemd-images/blob/master/images/rhel-family/centos/7/Dockerfile
+
+### Создан и выложен образ.
+https://hub.docker.com/repository/docker/zzugly/centoc7_ansib/general
+
+#### После решения дополнительных проблем с systemd в docker - тестирование роли (molecule test) отработало.
+
+
+
+
+
+
