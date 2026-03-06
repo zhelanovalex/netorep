@@ -17,6 +17,4 @@ https://github.com/zhelanovalex/my_neto_collection
 ### Настроить виртуальное окружение.
 <img width="1775" height="899" alt="image" src="https://github.com/user-attachments/assets/3d4f7c9d-2aaa-434c-8d19-298ba6ec0136" />
 
-<img width="1507" height="698" alt="image" src="https://github.com/user-attachments/assets/68f74ed1-66ca-4b9b-b397-e6a5b3f3c42f" />
-
 ## Основная часть
