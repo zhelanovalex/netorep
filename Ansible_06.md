@@ -30,3 +30,8 @@ https://github.com/zhelanovalex/my_neto_collection
 #### Выполнена проверка.
 <img width="1120" height="133" alt="image" src="https://github.com/user-attachments/assets/80cc24ee-e592-4c86-9289-9b23d5f71654" />
 
+#### Напишите single task playbook и используйте module в нём.
+<img width="833" height="191" alt="image" src="https://github.com/user-attachments/assets/c2b89f7f-0081-48b8-a137-5fa62cc80d3e" />
+
+#### Проверьте через playbook на идемпотентность.
+<img width="1838" height="532" alt="image" src="https://github.com/user-attachments/assets/dd87fb6f-55df-43cb-8f80-6592451f74db" />
