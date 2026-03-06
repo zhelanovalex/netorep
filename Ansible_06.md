@@ -18,3 +18,15 @@ https://github.com/zhelanovalex/my_neto_collection
 <img width="1775" height="899" alt="image" src="https://github.com/user-attachments/assets/3d4f7c9d-2aaa-434c-8d19-298ba6ec0136" />
 
 ## Основная часть
+
+### В виртуальном окружении создан новый my_neto_module.py файл с соответствующим содержимым.
+<img width="1032" height="41" alt="image" src="https://github.com/user-attachments/assets/a4c8263d-835b-4f6b-a36e-aa6d3029d72e" />
+
+### Проверьте module на исполняемость локально.
+
+#### Создан файл.
+<img width="783" height="117" alt="image" src="https://github.com/user-attachments/assets/4f7b4278-35a7-41a2-b698-657e13ee328e" />
+
+#### Выполнена проверка.
+<img width="1120" height="133" alt="image" src="https://github.com/user-attachments/assets/80cc24ee-e592-4c86-9289-9b23d5f71654" />
+
