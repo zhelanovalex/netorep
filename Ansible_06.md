@@ -30,8 +30,16 @@ https://github.com/zhelanovalex/my_neto_collection
 #### Выполнена проверка.
 <img width="1120" height="133" alt="image" src="https://github.com/user-attachments/assets/80cc24ee-e592-4c86-9289-9b23d5f71654" />
 
-#### Напишите single task playbook и используйте module в нём.
+### Напишите single task playbook и используйте module в нём.
 <img width="833" height="191" alt="image" src="https://github.com/user-attachments/assets/c2b89f7f-0081-48b8-a137-5fa62cc80d3e" />
 
-#### Проверьте через playbook на идемпотентность.
+### Проверьте через playbook на идемпотентность.
 <img width="1838" height="532" alt="image" src="https://github.com/user-attachments/assets/dd87fb6f-55df-43cb-8f80-6592451f74db" />
+
+### Инициализируйте новую collection.
+<img width="961" height="354" alt="image" src="https://github.com/user-attachments/assets/84cb4ecf-c24d-4dd2-a50e-31b7f5bc50e5" />
+
+### В эту collection перенесите свой module в соответствующую директорию.
+<img width="800" height="99" alt="image" src="https://github.com/user-attachments/assets/ce46afeb-8dd0-4477-b632-8adb08bf7014" />
+
+### 
