@@ -58,7 +58,8 @@ https://github.com/zhelanovalex/my_neto_collection/tree/main/AnsibCollect/neto_c
 <img width="811" height="53" alt="image" src="https://github.com/user-attachments/assets/7fb4b9f2-62bf-4ff6-a5ca-bbfa64f8e56a" />
 
 ### Установите collection из локального архива: ansible-galaxy collection install <archivename>.tar.gz.
-<img width="1328" height="154" alt="image" src="https://github.com/user-attachments/assets/1b6a4162-95c9-4357-a196-4e53268bb0bb" />
+<img width="1328" height="154" alt="image" src="https://github.com/user-attachments/assets/1b6a4162-95c9-4357-a196-4e53268bb0bb" />  
+https://github.com/zhelanovalex/my_neto_collection/tree/main/AnsibCollTest
 
 ### Запустите playbook, убедитесь, что он работает.
 #### Перед проверкой изменили содержимое искомого файла.
