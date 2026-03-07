@@ -62,5 +62,6 @@ https://github.com/zhelanovalex/my_neto_collection/tree/main/AnsibCollect/neto_c
 
 ### Запустите playbook, убедитесь, что он работает.
 #### Перед проверкой изменили содержимое искомого файла.
-<img width="1415" height="795" alt="image" src="https://github.com/user-attachments/assets/881a31d2-2512-4eb7-977b-62bee4d97688" />
+<img width="1431" height="795" alt="image" src="https://github.com/user-attachments/assets/bda71faf-1a6c-48ca-b1cf-9fe4c0a26202" />
+
 
