@@ -39,7 +39,17 @@ https://github.com/zhelanovalex/my_neto_collection
 ### Инициализируйте новую collection.
 <img width="961" height="354" alt="image" src="https://github.com/user-attachments/assets/84cb4ecf-c24d-4dd2-a50e-31b7f5bc50e5" />
 
+### Single task playbook преобразуйте в single task role и перенесите в collection. У role должны быть default всех параметров module.
+<img width="880" height="255" alt="image" src="https://github.com/user-attachments/assets/7e715034-a9a6-40e3-8f1a-327c95be1843" />
+
+### Создайте playbook для использования этой role.
+<img width="919" height="122" alt="image" src="https://github.com/user-attachments/assets/fed57cce-ab3d-46ec-9cef-69cae1abce23" />
+
 ### В эту collection перенесите свой module в соответствующую директорию.
 <img width="800" height="99" alt="image" src="https://github.com/user-attachments/assets/ce46afeb-8dd0-4477-b632-8adb08bf7014" />
+
+### Заполните всю документацию по collection, выложите в свой репозиторий, поставьте тег 1.0.0 на этот коммит.
+https://github.com/zhelanovalex/my_neto_collection/tree/main/AnsibCollect/neto_collect
+
 
 ### 
