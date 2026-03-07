@@ -51,5 +51,16 @@ https://github.com/zhelanovalex/my_neto_collection
 ### Заполните всю документацию по collection, выложите в свой репозиторий, поставьте тег 1.0.0 на этот коммит.
 https://github.com/zhelanovalex/my_neto_collection/tree/main/AnsibCollect/neto_collect
 
+### Создайте .tar.gz этой collection: ansible-galaxy collection build в корневой директории collection.
+<img width="1250" height="100" alt="image" src="https://github.com/user-attachments/assets/512012a4-8927-41dd-9b91-81f27e56b7c0" />
 
-### 
+### Создайте ещё одну директорию любого наименования, перенесите туда single task playbook и архив c collection.
+<img width="811" height="53" alt="image" src="https://github.com/user-attachments/assets/7fb4b9f2-62bf-4ff6-a5ca-bbfa64f8e56a" />
+
+### Установите collection из локального архива: ansible-galaxy collection install <archivename>.tar.gz.
+<img width="1328" height="154" alt="image" src="https://github.com/user-attachments/assets/1b6a4162-95c9-4357-a196-4e53268bb0bb" />
+
+### Запустите playbook, убедитесь, что он работает.
+#### Перед проверкой изменили содержимое искомого файла.
+<img width="1415" height="795" alt="image" src="https://github.com/user-attachments/assets/881a31d2-2512-4eb7-977b-62bee4d97688" />
+
