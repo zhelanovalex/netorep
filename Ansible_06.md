@@ -62,6 +62,8 @@ https://github.com/zhelanovalex/my_neto_collection/tree/main/AnsibCollect/neto_c
 https://github.com/zhelanovalex/my_neto_collection/tree/main/AnsibCollTest
 
 ### Запустите playbook, убедитесь, что он работает.
+#### Необходимо устнановить первменную.
+#### export ANSIBLE_LIBRARY=/ANSIBLE_TEST/AnsibCollect/neto_collect/plugins:/usr/local/lib/python3.8/dist-packages/ansible
 #### Перед проверкой изменили содержимое искомого файла.
 <img width="1431" height="795" alt="image" src="https://github.com/user-attachments/assets/bda71faf-1a6c-48ca-b1cf-9fe4c0a26202" />
 
