@@ -3,6 +3,9 @@
 
 ## Подготовка к выполнению
 ### В Yandex Cloud создано 3 сервера.
+<img width="888" height="159" alt="image" src="https://github.com/user-attachments/assets/f36df7ed-bb9a-402f-b538-ea4b52bd9fc0" />
+
+### Создан nexus сервер из указанного playbook.
 <img width="1174" height="973" alt="image" src="https://github.com/user-attachments/assets/2aa0291c-7731-41c6-ae57-e9696835ad5a" />
 
 https://zhelanov.kaiten.ru/62002224  
