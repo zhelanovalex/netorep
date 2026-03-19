@@ -1,8 +1,10 @@
 # netorep
 ## Домашнее задание к занятию 11 «Teamcity»
 
-## Основная часть
-### Front
+## Подготовка к выполнению
+### В Yandex Cloud создано 3 сервера.
+<img width="1174" height="973" alt="image" src="https://github.com/user-attachments/assets/2aa0291c-7731-41c6-ae57-e9696835ad5a" />
+
 https://zhelanov.kaiten.ru/62002224  
 https://zhelanov.kaiten.ru/p/c/cb39d67d-365c-4746-abcb-56f4c759feb5   
 https://zhelanov.kaiten.ru/62053603  
