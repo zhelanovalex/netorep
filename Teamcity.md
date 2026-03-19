@@ -13,6 +13,7 @@ https://github.com/zhelanovalex/example-teamcity
 
 
 ## Основная часть
+### Создайте новый проект в teamcity на основе fork.
 <img width="1555" height="517" alt="image" src="https://github.com/user-attachments/assets/295d0ed6-3b2b-4bc6-a1f2-50e5163f3e03" />
 <img width="1246" height="736" alt="image" src="https://github.com/user-attachments/assets/81d77d06-c289-4c1e-8fc3-6d9b79fce721" />
 
@@ -22,4 +23,20 @@ https://github.com/zhelanovalex/example-teamcity
 
 ### Мигрируйте build configuration в репозиторий.
 <img width="1444" height="755" alt="image" src="https://github.com/user-attachments/assets/e3300796-6898-4398-8b5c-04fef69921dc" />
+
+### Создайте отдельную ветку feature/add_reply в репозитории.
+<img width="1005" height="630" alt="image" src="https://github.com/user-attachments/assets/e134a8e6-3207-4554-87b7-7299d8f6db92" />
+
+### Напишите новый метод для класса Welcomer: метод должен возвращать произвольную реплику, содержащую слово hunter.
+<img width="881" height="546" alt="image" src="https://github.com/user-attachments/assets/bb3a0936-e680-4d7f-904d-389b69091505" />
+
+### Дополните тест для нового метода на поиск слова hunter в новой реплике.
+<img width="806" height="342" alt="image" src="https://github.com/user-attachments/assets/b2a38bed-a204-4887-bb2e-7e526e471a70" />
+
+### Запустите сборку по master, убедитесь, что всё прошло успешно и артефакт появился в nexus.
+<img width="1157" height="671" alt="image" src="https://github.com/user-attachments/assets/3d2f7d65-537b-45ec-b966-fcc5bca8fa78" />
+<img width="824" height="505" alt="image" src="https://github.com/user-attachments/assets/61a24d7f-afed-4108-a047-f6695404b869" />
+
+
+
 
