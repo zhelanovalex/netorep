@@ -22,7 +22,9 @@
 #### количество свободной оперативной памяти;
 ###### promql-запрос ((1 - (node_memory_MemAvailable_bytes / node_memory_MemTotal_bytes)) * 100)
 #### количество места на файловой системе.
-###### promql-запрос (node_filesystem_avail_bytes{mountpoint="/", fstype!="tmpfs"}), (node_filesystem_size_bytes{mountpoint="/", fstype!="tmpfs"})
+###### promql-запросы (node_filesystem_avail_bytes{mountpoint="/", fstype!="tmpfs"}), (node_filesystem_size_bytes{mountpoint="/", fstype!="tmpfs"})
+
+### Cкриншот получившейся Dashboard Neto_Tasks
 <img width="1233" height="811" alt="image" src="https://github.com/user-attachments/assets/65a754c1-d50c-49fe-985c-339916ff7f8f" />
 
 
