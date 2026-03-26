@@ -24,8 +24,8 @@
 #### Cкриншот создания индекс patterns.
 <img width="1548" height="836" alt="image" src="https://github.com/user-attachments/assets/e4c577d5-a1d9-4dcf-8b01-52c57174e579" />
 
-#### Cкриншот создания индекс patterns.
+#### Cкриншот отображения данных в DataView (индекс patterns).
 <img width="1518" height="768" alt="image" src="https://github.com/user-attachments/assets/092a272a-51b5-4b5e-aa55-436e4b3d3e54" />
 
-#### Cкриншот создания индекс patterns.
+#### Cкриншот поиска данных в DataView (индекс patterns).
 <img width="1427" height="799" alt="image" src="https://github.com/user-attachments/assets/4861e745-91be-41ef-8c18-933ed4bfa74e" />
