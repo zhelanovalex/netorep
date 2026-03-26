@@ -19,6 +19,9 @@
 ### Задание 2
 
 #### Cкриншот индексов появивишихся в системе.
+<img width="1438" height="503" alt="image" src="https://github.com/user-attachments/assets/c4043f68-12e1-4cca-bb90-ee1b17256e1c" />
+
+#### Cкриншот создания индекс patterns.
 <img width="1548" height="836" alt="image" src="https://github.com/user-attachments/assets/e4c577d5-a1d9-4dcf-8b01-52c57174e579" />
 
 #### Cкриншот создания индекс patterns.
