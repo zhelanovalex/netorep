@@ -9,6 +9,9 @@
 #### Скопированы данные из директории [help](./help) внутри этого домашнего задания, и запущена связка ELK.
 <img width="801" height="127" alt="image" src="https://github.com/user-attachments/assets/bbcad34f-b66b-401d-b1e7-8415d08ad93b" />
 
+#### Не стартовали контейнеры с elasticsearch. Устранена проблема связанная с vm.max_map_count
+<img width="721" height="40" alt="image" src="https://github.com/user-attachments/assets/f92b1893-859f-4c00-bb48-adafdc55fb46" />
+
 #### Cкриншот docker ps через 5 минут после старта всех контейнеров.
 <img width="1684" height="144" alt="image" src="https://github.com/user-attachments/assets/263e8d82-f7de-45ca-b9c1-f0fab60b8407" />
  
