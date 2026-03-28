@@ -67,5 +67,6 @@
 
 ## Задание 9
 <img width="809" height="573" alt="image" src="https://github.com/user-attachments/assets/1de1f03b-cd6b-47c4-a9a2-3006f3a041e3" />
+<img width="1288" height="752" alt="image" src="https://github.com/user-attachments/assets/99bee971-ca0e-457d-952c-9c95931b80b6" />
 
 
