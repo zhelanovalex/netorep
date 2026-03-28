@@ -60,13 +60,12 @@
 #### - VictoriaMetrics
 
 ## Задание 7
-<img width="945" height="587" alt="image" src="https://github.com/user-attachments/assets/1bdb4cf5-a169-4644-b299-f5c22c51f4d7" />
+<img width="1483" height="744" alt="image" src="https://github.com/user-attachments/assets/da5d353a-2847-4819-b2a2-aa7facf2978c" />
 
 ## Задание 8
-<img width="1024" height="529" alt="image" src="https://github.com/user-attachments/assets/a6c62351-7ad5-4128-96a5-b4859836e331" />
+<img width="1689" height="713" alt="image" src="https://github.com/user-attachments/assets/7a685670-9bd9-4fa5-88bd-78cabf5a912d" />
 
 ## Задание 9
-<img width="809" height="573" alt="image" src="https://github.com/user-attachments/assets/1de1f03b-cd6b-47c4-a9a2-3006f3a041e3" />
 <img width="1288" height="752" alt="image" src="https://github.com/user-attachments/assets/99bee971-ca0e-457d-952c-9c95931b80b6" />
 
 
