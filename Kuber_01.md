@@ -24,13 +24,24 @@
 ### 3. Сгенерировать сертификат для подключения к внешнему ip-адресу.
 #### Создание сертификата для подключения к внешнему ip-адресу.
 <img width="712" height="578" alt="image" src="https://github.com/user-attachments/assets/55e6ebcc-2402-45ea-83d9-671b4d57c913" />
+----
 <img width="830" height="115" alt="image" src="https://github.com/user-attachments/assets/28ddad3f-ad16-4031-8e79-6ebc18db222c" />
 
 ## Задание 2. Установка и настройка локального kubectl
-### 1. Установить MicroK8S на локальную машину или на удалённую виртуальную машину.
-#### Подключиться к дашборду с помощью port-forward.
+### 1. Установить на локальную машину kubectl.
+<img width="1132" height="69" alt="image" src="https://github.com/user-attachments/assets/8b212db1-7573-426f-89e4-699609f9cb5c" />
+----
+<img width="733" height="112" alt="image" src="https://github.com/user-attachments/assets/e65ccc75-3baa-4c7d-a691-4f21f9c27131" />
+
+### 2. Настроить локально подключение к кластеру.
+<img width="994" height="530" alt="image" src="https://github.com/user-attachments/assets/8fabbf4b-8123-4e50-ba21-454e72ac2091" />
+----
+<img width="503" height="151" alt="image" src="https://github.com/user-attachments/assets/fdb77592-9ea8-4280-9cf2-23c4053ed71f" />
+
+### 3. Подключиться к дашборду с помощью port-forward.
 #### Проброс порта для подключения удаленно.
 <img width="1110" height="101" alt="image" src="https://github.com/user-attachments/assets/5c9bb436-9a7a-490f-a76f-e0e9fd6f4030" />
+
 #### Проброс порта для подключения удаленно
 <img width="1514" height="707" alt="image" src="https://github.com/user-attachments/assets/ded8cc20-c25c-4503-b289-056911f52fe5" />
 
