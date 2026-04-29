@@ -11,12 +11,15 @@
 ----
 <img width="519" height="56" alt="image" src="https://github.com/user-attachments/assets/bd1d5400-46e1-40a1-a95b-7a6db2598a2d" />
 ----
-<img width="722" height="184" alt="image" src="https://github.com/user-attachments/assets/a7fecfc7-898c-428d-b81e-6a3baa9f52db" />  
+<img width="722" height="184" alt="image" src="https://github.com/user-attachments/assets/a7fecfc7-898c-428d-b81e-6a3baa9f52db" />
+
 ### 2. Установить dashboard.
 #### Установка dashboard.
-<img width="894" height="875" alt="image" src="https://github.com/user-attachments/assets/efb06633-be1e-4fc2-bb73-46a80abb65f2" /> 
-<img width="738" height="215" alt="image" src="https://github.com/user-attachments/assets/3d26be15-c6b3-4f76-8ce8-6205567d9a05" /> 
-<img width="1094" height="173" alt="image" src="https://github.com/user-attachments/assets/2ad0fa60-01ab-40fd-813c-6cc88fd2e954" />
+<img width="894" height="875" alt="image" src="https://github.com/user-attachments/assets/efb06633-be1e-4fc2-bb73-46a80abb65f2" />
+----
+<img width="738" height="215" alt="image" src="https://github.com/user-attachments/assets/3d26be15-c6b3-4f76-8ce8-6205567d9a05" />
+----
+<img width="1094" height="173" alt="image" src="https://github.com/user-attachments/assets/2ad0fa60-01ab-40fd-813c-6cc88fd2e954" />  
 
 ### 3. Сгенерировать сертификат для подключения к внешнему ip-адресу.
 #### Создание сертификата для подключения к внешнему ip-адресу.
