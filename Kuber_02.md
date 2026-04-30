@@ -1,6 +1,15 @@
 # netorep
 # Домашнее задание к занятию «Базовые объекты K8S»
 
+## Чеклист готовности к домашнему заданию
+### Установленное k8s-решение MicroK8S на yandex VM.
+<img width="733" height="111" alt="image" src="https://github.com/user-attachments/assets/b1ce3889-7966-4faf-bada-f28ce1a00c3d" />
+----
+<img width="721" height="262" alt="image" src="https://github.com/user-attachments/assets/f400ac00-4702-477c-a8dd-aa167b0ad532" />
+
+### Установленный локальный kubectl.
+<img width="631" height="102" alt="image" src="https://github.com/user-attachments/assets/4e74f6fb-3786-4f0e-850a-01463189328b" />
+
 ## Задание 1. Создать Pod с именем hello-world
 ### Создать манифест (yaml-конфигурацию) Pod.
 <img width="771" height="233" alt="image" src="https://github.com/user-attachments/assets/669defa4-087c-482d-89b0-c84a004e3821" />
