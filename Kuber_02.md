@@ -7,8 +7,11 @@
 ----
 <img width="721" height="262" alt="image" src="https://github.com/user-attachments/assets/f400ac00-4702-477c-a8dd-aa167b0ad532" />
 
-### Установленный локальный kubectl.
+### Установлен на локальном компьютере kubectl.
 <img width="631" height="102" alt="image" src="https://github.com/user-attachments/assets/4e74f6fb-3786-4f0e-850a-01463189328b" />
+
+### Сылка на манифесты.
+https://github.com/zhelanovalex/kuber-homeworks/tree/main/1.2/src
 
 ## Задание 1. Создать Pod с именем hello-world
 ### Создать манифест (yaml-конфигурацию) Pod.
