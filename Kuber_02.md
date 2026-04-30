@@ -15,4 +15,27 @@
 ----
 <img width="646" height="450" alt="image" src="https://github.com/user-attachments/assets/6d435825-51e5-437d-8771-4ba46000a2e1" />
 
-#### Удалённая виртуальная машина.
+## Задание 2. Создать Service и подключить его к Pod
+### Создать Pod с именем netology-web.
+<img width="665" height="212" alt="image" src="https://github.com/user-attachments/assets/4009c549-94d2-489d-81ab-f3c8fbc7cd07" />
+----
+<img width="688" height="101" alt="image" src="https://github.com/user-attachments/assets/11e753ac-02da-4458-8e18-66824e87991a" />
+
+### Создать Service с именем netology-svc и подключить к netology-web.
+<img width="629" height="248" alt="image" src="https://github.com/user-attachments/assets/821c1ef5-dab2-46dc-8fa7-4ce29b137747" />
+----
+<img width="749" height="105" alt="image" src="https://github.com/user-attachments/assets/39cbcb9d-f892-41c4-9d55-6d8e13a6061c" />
+----
+<img width="642" height="284" alt="image" src="https://github.com/user-attachments/assets/d98ced05-1051-43e4-b4c8-1c5480b97993" />
+
+### Подключиться локально к Service с помощью kubectl port-forward и вывести значение (curl или в браузере).
+<img width="692" height="72" alt="image" src="https://github.com/user-attachments/assets/e684db1b-f4c6-4c78-81b9-7ee7dc993592" />
+----
+<img width="513" height="448" alt="image" src="https://github.com/user-attachments/assets/f8a0b394-faaf-424f-bd3d-865de64f0e77" />
+
+
+
+
+
+
+
