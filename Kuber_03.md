@@ -20,3 +20,7 @@
 ----
 <img width="679" height="55" alt="image" src="https://github.com/user-attachments/assets/b83f7be5-3e25-472e-bb0f-9cbae374bd89" />
 
+### После запуска увеличить количество реплик работающего приложения до 2.
+<img width="803" height="34" alt="image" src="https://github.com/user-attachments/assets/4cb7f0ce-3151-4510-968c-6971a44c634d" />
+
+### Продемонстрировать количество подов до и после масштабирования.
