@@ -42,3 +42,12 @@
 <img width="544" height="175" alt="image" src="https://github.com/user-attachments/assets/7e63dec8-f388-4b99-882c-d57e0e7b5618" />
 ----
 <img width="600" height="172" alt="image" src="https://github.com/user-attachments/assets/d618f2c7-337a-4fc3-825b-c5e7eabe66be" />
+
+### Создать отдельный Pod с приложением multitool и убедиться с помощью curl, что из пода есть доступ до приложений из п.1.
+<img width="763" height="184" alt="image" src="https://github.com/user-attachments/assets/f1b5b968-70c2-4702-b247-696b335b0fbc" />
+----
+<img width="687" height="88" alt="image" src="https://github.com/user-attachments/assets/86b75d72-6137-445a-8b8e-610c3f6ade21" />
+----
+<img width="1262" height="72" alt="image" src="https://github.com/user-attachments/assets/05fb10f8-075c-4e09-b85b-e5e68fd76a9d" />
+
+
