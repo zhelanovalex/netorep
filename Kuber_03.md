@@ -24,3 +24,8 @@
 <img width="803" height="34" alt="image" src="https://github.com/user-attachments/assets/4cb7f0ce-3151-4510-968c-6971a44c634d" />
 
 ### Продемонстрировать количество подов до и после масштабирования.
+<img width="752" height="53" alt="image" src="https://github.com/user-attachments/assets/a6843cbf-a8a6-4ce8-9235-017e5a2bf492" />
+----
+<img width="726" height="73" alt="image" src="https://github.com/user-attachments/assets/6175e0d6-938c-4311-a457-b77f59c58fe5" />
+----
+<img width="795" height="120" alt="image" src="https://github.com/user-attachments/assets/b7fc8e7e-a719-46e9-a1b9-c42c98ae9131" />
