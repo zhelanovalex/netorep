@@ -49,5 +49,7 @@
 <img width="687" height="88" alt="image" src="https://github.com/user-attachments/assets/86b75d72-6137-445a-8b8e-610c3f6ade21" />
 ----
 <img width="1262" height="72" alt="image" src="https://github.com/user-attachments/assets/05fb10f8-075c-4e09-b85b-e5e68fd76a9d" />
+----
+<img width="1195" height="282" alt="image" src="https://github.com/user-attachments/assets/6c0b004b-35cd-4c05-a37c-0777b4e5b751" />
 
-
+## Задание 2. Создать Deployment и обеспечить старт основного контейнера при выполнении условий.
