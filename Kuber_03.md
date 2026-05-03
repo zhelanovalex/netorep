@@ -29,3 +29,16 @@
 <img width="726" height="73" alt="image" src="https://github.com/user-attachments/assets/6175e0d6-938c-4311-a457-b77f59c58fe5" />
 ----
 <img width="795" height="120" alt="image" src="https://github.com/user-attachments/assets/b7fc8e7e-a719-46e9-a1b9-c42c98ae9131" />
+
+### Создать Service, который обеспечит доступ до реплик приложений из п.1.
+<img width="751" height="310" alt="image" src="https://github.com/user-attachments/assets/904a64d4-cf97-4119-b5c2-1392ba0ccf9d" />
+----
+<img width="746" height="75" alt="image" src="https://github.com/user-attachments/assets/ec754204-f04b-49e7-bd06-80e29e758012" />
+----
+<img width="1216" height="168" alt="image" src="https://github.com/user-attachments/assets/b2350139-e4c2-4b3f-8940-50039102bb55" />
+----
+<img width="1183" height="71" alt="image" src="https://github.com/user-attachments/assets/47aabccb-6c29-4143-8c6e-51568e8b00bd" />
+----
+<img width="544" height="175" alt="image" src="https://github.com/user-attachments/assets/7e63dec8-f388-4b99-882c-d57e0e7b5618" />
+----
+<img width="600" height="172" alt="image" src="https://github.com/user-attachments/assets/d618f2c7-337a-4fc3-825b-c5e7eabe66be" />
