@@ -9,7 +9,7 @@
 <img width="555" height="69" alt="image" src="https://github.com/user-attachments/assets/e1c9a382-7c0a-444e-b3fb-0d3e564495dc" />
 
 ### Установлен на локальном компьютере kubectl.
-<img width="631" height="102" alt="image" src="https://github.com/user-attachments/assets/4e74f6fb-3786-4f0e-850a-01463189328b" />
+<img width="709" height="120" alt="image" src="https://github.com/user-attachments/assets/1264b779-6630-4c8f-8d62-b11e802c5896" />
 
 ## Задание 1. Создать Deployment и обеспечить доступ к репликам приложения из другого Pod
 ### Создать Deployment приложения, состоящего из двух контейнеров — nginx и multitool. Решить возникшую ошибку.
