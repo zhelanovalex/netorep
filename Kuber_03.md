@@ -69,8 +69,8 @@
 <img width="749" height="177" alt="image" src="https://github.com/user-attachments/assets/535b1a65-5050-45de-848f-7c3917162708" />
 ----
 <img width="1183" height="821" alt="image" src="https://github.com/user-attachments/assets/2ffcba93-d5ac-45f3-aec1-9d6ecb49f736" />
-----
-<img width="749" height="177" alt="image" src="https://github.com/user-attachments/assets/535b1a65-5050-45de-848f-7c3917162708" />
 
 ### Продемонстрировать состояние пода до и после запуска сервиса.
 <img width="871" height="205" alt="image" src="https://github.com/user-attachments/assets/01b2fcd4-77d6-4955-83e5-b09254849e63" />
+----
+<img width="749" height="177" alt="image" src="https://github.com/user-attachments/assets/535b1a65-5050-45de-848f-7c3917162708" />
