@@ -53,3 +53,20 @@
 <img width="1195" height="282" alt="image" src="https://github.com/user-attachments/assets/6c0b004b-35cd-4c05-a37c-0777b4e5b751" />
 
 ## Задание 2. Создать Deployment и обеспечить старт основного контейнера при выполнении условий.
+### Создать Deployment приложения nginx и обеспечить старт контейнера только после того, как будет запущен сервис этого приложения.
+<img width="1221" height="453" alt="image" src="https://github.com/user-attachments/assets/ee6edede-f3d9-4e48-aafb-1f32a6243d68" />
+
+### Убедиться, что nginx не стартует. В качестве Init-контейнера взять busybox.
+<img width="817" height="128" alt="image" src="https://github.com/user-attachments/assets/2099b45a-55d7-4251-93a5-de01552f1522" />
+----
+<img width="1210" height="789" alt="image" src="https://github.com/user-attachments/assets/d8ab21f6-8a2f-47b9-b17d-87d6a791e0dd" />
+
+### Создать и запустить Service. Убедиться, что Init запустился.
+<img width="792" height="242" alt="image" src="https://github.com/user-attachments/assets/860db836-dd4f-4205-a872-1b0d97237f14" />
+----
+<img width="796" height="86" alt="image" src="https://github.com/user-attachments/assets/89e613eb-7755-45ce-8ac5-f50593a02a2b" />
+----
+<img width="749" height="177" alt="image" src="https://github.com/user-attachments/assets/535b1a65-5050-45de-848f-7c3917162708" />
+
+### Продемонстрировать состояние пода до и после запуска сервиса.
+<img width="1183" height="821" alt="image" src="https://github.com/user-attachments/assets/2ffcba93-d5ac-45f3-aec1-9d6ecb49f736" />
