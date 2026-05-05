@@ -13,8 +13,13 @@
 
 ## Задание 1: Настройка Service (ClusterIP и NodePort)
 ### Создать Deployment приложения, состоящего из двух контейнеров (nginx и multitool), с количеством реплик 3.
-<img width="765" height="566" alt="image" src="https://github.com/user-attachments/assets/619e35d5-990c-4e3f-87e2-17f0c16d79ef" />
+<img width="811" height="565" alt="image" src="https://github.com/user-attachments/assets/0eae006c-d720-49fc-ac65-e251b6587a5c" />
 ----
 <img width="824" height="39" alt="image" src="https://github.com/user-attachments/assets/47f956fe-e9f1-455e-8869-9d8e918bf5a8" />
 ----
 <img width="1050" height="90" alt="image" src="https://github.com/user-attachments/assets/f0a61bbf-4831-4f49-90eb-62a3ce76a9c8" />
+
+### Создать Service типа ClusterIP, который обеспечит доступ внутри кластера до контейнеров приложения из п.1 по порту 9001 — nginx 80, по 9002 — multitool 8080.
+<img width="674" height="322" alt="image" src="https://github.com/user-attachments/assets/69c94da8-9d03-4dc0-a656-a7aeecc64e6a" />
+----
+<img width="833" height="102" alt="image" src="https://github.com/user-attachments/assets/677fa53e-681e-46a5-b837-5116c476b2d6" />
