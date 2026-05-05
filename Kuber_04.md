@@ -45,4 +45,20 @@
 ----
 <img width="1091" height="94" alt="image" src="https://github.com/user-attachments/assets/b25bae97-9da6-421e-85f9-cc7747e36d86" />
 
+## Задание 2: Настройка Ingress (Развернуть два приложения (frontend и backend) и обеспечить доступ к ним через Ingress по разным путям)
+### Развернуть два Deployment: frontend (образ nginx) и backend (образ wbitt/network-multitool).
+<img width="822" height="373" alt="image" src="https://github.com/user-attachments/assets/f4e17aec-3b58-443e-bd7a-313627a46d53" />
+----
+<img width="702" height="376" alt="image" src="https://github.com/user-attachments/assets/f9314ada-7782-43c1-aeb3-e47e456061ea" />
+----
+<img width="775" height="68" alt="image" src="https://github.com/user-attachments/assets/40a5f2e2-4bba-472f-8f9c-6d15b368f166" />
+----
+<img width="1056" height="106" alt="image" src="https://github.com/user-attachments/assets/56812875-7b96-4541-9d20-71ce1086cd39" />
+
+### Создать Service для каждого приложения.
+<img width="656" height="259" alt="image" src="https://github.com/user-attachments/assets/77e60c56-3368-4bf5-8272-333cda6c9153" />
+----
+<img width="617" height="265" alt="image" src="https://github.com/user-attachments/assets/7525fc5b-d564-42d1-9750-cf3700bfea17" />
+----
+<img width="776" height="84" alt="image" src="https://github.com/user-attachments/assets/7043220a-a80e-4c93-a7ce-21f79f58b984" />
 
