@@ -12,7 +12,7 @@
 <img width="682" height="134" alt="image" src="https://github.com/user-attachments/assets/df007acf-5bde-4e9d-844a-610122b63d8e" />
 
 ### Сылка на манифесты.
-https://github.com/zhelanovalex/kuber-homeworks/tree/main/1.3/src
+https://github.com/zhelanovalex/kuber-homeworks/tree/main/1.4/src
 
 ## Задание 1: Настройка Service (ClusterIP и NodePort)
 ### Создать Deployment приложения, состоящего из двух контейнеров (nginx и multitool), с количеством реплик 3.
