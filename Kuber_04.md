@@ -11,6 +11,9 @@
 ### Установлен на локальном компьютере kubectl.
 <img width="682" height="134" alt="image" src="https://github.com/user-attachments/assets/df007acf-5bde-4e9d-844a-610122b63d8e" />
 
+### Сылка на манифесты.
+https://github.com/zhelanovalex/kuber-homeworks/tree/main/1.3/src
+
 ## Задание 1: Настройка Service (ClusterIP и NodePort)
 ### Создать Deployment приложения, состоящего из двух контейнеров (nginx и multitool), с количеством реплик 3.
 <img width="811" height="565" alt="image" src="https://github.com/user-attachments/assets/0eae006c-d720-49fc-ac65-e251b6587a5c" />
