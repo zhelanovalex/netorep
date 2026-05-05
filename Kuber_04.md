@@ -23,3 +23,8 @@
 <img width="674" height="322" alt="image" src="https://github.com/user-attachments/assets/69c94da8-9d03-4dc0-a656-a7aeecc64e6a" />
 ----
 <img width="833" height="102" alt="image" src="https://github.com/user-attachments/assets/677fa53e-681e-46a5-b837-5116c476b2d6" />
+#### Проверить доступность изнутри кластера.
+<img width="1191" height="134" alt="image" src="https://github.com/user-attachments/assets/f8d2ffb4-9a9d-46c2-8e91-4b7a0a6a6877" />
+----
+<img width="1192" height="321" alt="image" src="https://github.com/user-attachments/assets/257b06d1-aa80-4931-85dd-3997a6cc31d0" />
+
