@@ -62,3 +62,24 @@
 ----
 <img width="776" height="84" alt="image" src="https://github.com/user-attachments/assets/7043220a-a80e-4c93-a7ce-21f79f58b984" />
 
+### Включить Ingress-контроллер.
+<img width="824" height="233" alt="image" src="https://github.com/user-attachments/assets/c30bb7af-36fe-4398-886a-c0e180d4007a" />
+
+### Создать Ingress, который: открывает frontend по пути / и открывает backend по пути /api.
+<img width="730" height="405" alt="image" src="https://github.com/user-attachments/assets/cd381f16-b442-4c6e-b7fd-072b63fb3389" />
+----
+<img width="824" height="91" alt="image" src="https://github.com/user-attachments/assets/a431a097-7b9f-403b-af2c-f5d7381abff6" />
+
+#### Проверить доступность.
+<img width="559" height="219" alt="image" src="https://github.com/user-attachments/assets/a61dfea7-ec8d-491b-82e4-8ee0a503c5da" />
+----
+<img width="1185" height="765" alt="image" src="https://github.com/user-attachments/assets/3b4ff666-bbbc-43ce-8d5b-8d436b4a1c81" />
+----
+<img width="1118" height="95" alt="image" src="https://github.com/user-attachments/assets/3887ecad-7ddc-4299-997c-8ad449205fd3" />
+----
+<img width="1133" height="113" alt="image" src="https://github.com/user-attachments/assets/d4eff50a-ddc2-4e0d-873a-8486cc16fe9a" />
+----
+<img width="1126" height="329" alt="image" src="https://github.com/user-attachments/assets/d746c6c3-e07f-4011-a3af-b91f07a9a718" />
+----
+<img width="1132" height="352" alt="image" src="https://github.com/user-attachments/assets/3e13a903-e0d1-4340-a913-3f69e8fa0b4f" />
+
