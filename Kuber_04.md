@@ -32,4 +32,17 @@
 <img width="835" height="327" alt="image" src="https://github.com/user-attachments/assets/c1494e90-a920-4424-a918-f25d287413c8" />
 ----
 <img width="1033" height="120" alt="image" src="https://github.com/user-attachments/assets/34d77c58-41a8-47f3-ad0e-a8fb4d5b1d95" />
+#### Проверить доступ с локального компьютера.
+<img width="785" height="351" alt="image" src="https://github.com/user-attachments/assets/d570d4fc-8428-4043-b85c-25bf085842f1" />
+----
+<img width="1155" height="339" alt="image" src="https://github.com/user-attachments/assets/c30bdff0-6b34-4f0b-9feb-24ddb524c9b9" />
+----
+<img width="1167" height="335" alt="image" src="https://github.com/user-attachments/assets/4762c97c-6722-4348-96cf-6df2046fd1a3" />
+----
+<img width="1183" height="193" alt="image" src="https://github.com/user-attachments/assets/2cbe3a88-ce47-4f1c-930f-402325f8cb7f" />
+----
+<img width="1081" height="79" alt="image" src="https://github.com/user-attachments/assets/49dc7682-d5b8-4fc5-b260-326ea9668cc2" />
+----
+<img width="1091" height="94" alt="image" src="https://github.com/user-attachments/assets/b25bae97-9da6-421e-85f9-cc7747e36d86" />
+
 
