@@ -28,3 +28,8 @@
 ----
 <img width="1192" height="321" alt="image" src="https://github.com/user-attachments/assets/257b06d1-aa80-4931-85dd-3997a6cc31d0" />
 
+### Создать Service типа NodePort для доступа к nginx снаружи.
+<img width="835" height="327" alt="image" src="https://github.com/user-attachments/assets/c1494e90-a920-4424-a918-f25d287413c8" />
+----
+<img width="1033" height="120" alt="image" src="https://github.com/user-attachments/assets/34d77c58-41a8-47f3-ad0e-a8fb4d5b1d95" />
+
