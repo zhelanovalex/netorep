@@ -43,6 +43,12 @@ https://github.com/zhelanovalex/kuber-homeworks/tree/main/2.1/src
 <img width="936" height="250" alt="image" src="https://github.com/user-attachments/assets/05870a40-13f4-43fd-897e-dfb00bf174a2" />
 ----
 <img width="886" height="242" alt="image" src="https://github.com/user-attachments/assets/ec84c5bb-9f74-4c67-87b6-d74f2ce3bf9d" />
+----
+<img width="917" height="131" alt="image" src="https://github.com/user-attachments/assets/1af39b09-8787-47c0-bad4-7a994f6f9d72" />
+----
+<img width="674" height="162" alt="image" src="https://github.com/user-attachments/assets/7d549cc9-a690-4e65-a42a-e356b367ce67" />
+----
+<img width="677" height="151" alt="image" src="https://github.com/user-attachments/assets/16a3a07c-52b0-40ab-8048-24a1be7c9243" />
 
 Удалить Deployment и PVC. Продемонстрировать, что после этого произошло с PV. Пояснить, почему. (Используйте команду kubectl describe pv).
 Продемонстрировать, что файл сохранился на локальном диске ноды. Удалить PV. Продемонстрировать, что произошло с файлом после удаления PV. Пояснить, почему.
