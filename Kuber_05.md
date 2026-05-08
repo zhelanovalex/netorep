@@ -58,6 +58,13 @@ https://github.com/zhelanovalex/kuber-homeworks/tree/main/2.1/src
 <img width="674" height="162" alt="image" src="https://github.com/user-attachments/assets/7d549cc9-a690-4e65-a42a-e356b367ce67" />
 ----
 <img width="677" height="151" alt="image" src="https://github.com/user-attachments/assets/16a3a07c-52b0-40ab-8048-24a1be7c9243" />
+
 ##### Данный PV нельзя сразу использовать с новым PVC, пока администратор вручную не очистит или не пересоздаст его.
 
 #### Продемонстрировать, что файл сохранился на локальном диске ноды. Удалить PV. Продемонстрировать, что произошло с файлом после удаления PV. Пояснить, почему.
+<img width="674" height="162" alt="image" src="https://github.com/user-attachments/assets/7d549cc9-a690-4e65-a42a-e356b367ce67" />
+----
+<img width="677" height="151" alt="image" src="https://github.com/user-attachments/assets/16a3a07c-52b0-40ab-8048-24a1be7c9243" />
+
+##### PV — это всего лишь определнная виртуальная сущность в Kubernetes, описывающая ресурс хранения данных.
+##### При удалении PV удаляется только объект Kubernetes, но не затрагиваются данные на диске.
