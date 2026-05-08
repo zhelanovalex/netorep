@@ -74,8 +74,19 @@ https://github.com/zhelanovalex/kuber-homeworks/tree/main/2.1/src
 ##### Создать Deployment приложения, состоящего из контейнеров busybox и multitool, использующего созданный ранее PVC.
 ##### Создать SC и PVC для подключения папки на локальной ноде, которая будет использована в поде.
 <img width="826" height="957" alt="image" src="https://github.com/user-attachments/assets/89cf9c8c-e999-4bad-afea-5859a6ed4a70" />
+----
+<img width="1124" height="233" alt="image" src="https://github.com/user-attachments/assets/c8a5f0a5-1022-402a-9b4e-189d413e26b0" />
 
 ##### Продемонстрировать, что контейнер multitool может читать данные из файла в смонтированной директории, в который busybox записывает данные каждые 5 секунд.
+#### Читает multitool
 <img width="914" height="239" alt="image" src="https://github.com/user-attachments/assets/a97f051d-8693-48a0-9af4-b88a99604b7e" />
 
+#### Пишет busybox
 <img width="957" height="267" alt="image" src="https://github.com/user-attachments/assets/dd02b8a3-a758-4922-8d70-1e4dfec4f18b" />
+
+#### Копии тома на всех узлах кластера согласно указанным репликам.
+<img width="848" height="128" alt="image" src="https://github.com/user-attachments/assets/6c1059bf-5d56-4eff-86e1-e4ec2be62d69" />
+----
+<img width="813" height="133" alt="image" src="https://github.com/user-attachments/assets/5e8dbd94-99b4-49e7-9241-296b5d4b69d9" />
+----
+<img width="701" height="129" alt="image" src="https://github.com/user-attachments/assets/ed39774f-c606-4c9d-88ef-6cd36ad2d989" />
