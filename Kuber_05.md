@@ -13,3 +13,19 @@
 
 ### Сылка на манифесты.
 https://github.com/zhelanovalex/kuber-homeworks/tree/main/2.1/src
+
+## Задание 1. Volume: обмен данными между контейнерами в поде.
+### Создать Deployment приложения, состоящего из двух контейнеров — nginx и multitool. Решить возникшую ошибку.
+#### Создать Deployment приложения, состоящего из контейнеров busybox и multitool.
+#### Настроить busybox на запись данных каждые 5 секунд в некий файл в общей директории.
+#### Обеспечить возможность чтения файла контейнером multitool.
+<img width="778" height="532" alt="image" src="https://github.com/user-attachments/assets/25017cb2-7346-4724-bb70-8b6520425551" />
+----
+<img width="1011" height="215" alt="image" src="https://github.com/user-attachments/assets/2e0e5658-0745-429e-9d4b-688b3e8e7b26" />
+----
+<img width="1031" height="377" alt="image" src="https://github.com/user-attachments/assets/3e7efd10-b06f-4f6a-88c0-cdf65cce57cf" />
+----
+<img width="966" height="294" alt="image" src="https://github.com/user-attachments/assets/d5dea62b-cf56-4772-a203-e894c844bac8" />
+----
+<img width="1016" height="177" alt="image" src="https://github.com/user-attachments/assets/3187bb91-4070-46a2-be4a-38c227bb863a" />
+
