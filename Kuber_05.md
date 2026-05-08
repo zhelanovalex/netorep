@@ -15,7 +15,7 @@
 https://github.com/zhelanovalex/kuber-homeworks/tree/main/2.1/src
 
 ## Задание 1. Volume: обмен данными между контейнерами в поде.
-### Создать Deployment приложения, состоящего из двух контейнеров — nginx и multitool. Решить возникшую ошибку.
+### Создать Deployment приложения, состоящего из двух контейнеров, обменивающихся данными.
 #### Создать Deployment приложения, состоящего из контейнеров busybox и multitool.
 #### Настроить busybox на запись данных каждые 5 секунд в некий файл в общей директории.
 #### Обеспечить возможность чтения файла контейнером multitool.
@@ -31,3 +31,18 @@ https://github.com/zhelanovalex/kuber-homeworks/tree/main/2.1/src
 ----
 <img width="1016" height="177" alt="image" src="https://github.com/user-attachments/assets/3187bb91-4070-46a2-be4a-38c227bb863a" />
 
+## Задание 2. PV, PVC.
+### Создать Deployment приложения, использующего локальный PV, созданный вручную.
+#### Создать Deployment приложения, состоящего из контейнеров busybox и multitool, использующего созданный ранее PVC.
+#### Создать PV и PVC для подключения папки на локальной ноде, которая будет использована в поде.
+<img width="959" height="1004" alt="image" src="https://github.com/user-attachments/assets/c0fef47e-87ac-4dd8-8b3c-d51d731046fa" />
+----
+<img width="1121" height="103" alt="image" src="https://github.com/user-attachments/assets/ced0f31b-f975-442b-8e96-8d9d06b154c4" />
+
+#### Продемонстрировать, что контейнер multitool может читать данные из файла в смонтированной директории, в который busybox записывает данные каждые 5 секунд.
+<img width="936" height="250" alt="image" src="https://github.com/user-attachments/assets/05870a40-13f4-43fd-897e-dfb00bf174a2" />
+----
+<img width="886" height="242" alt="image" src="https://github.com/user-attachments/assets/ec84c5bb-9f74-4c67-87b6-d74f2ce3bf9d" />
+
+Удалить Deployment и PVC. Продемонстрировать, что после этого произошло с PV. Пояснить, почему. (Используйте команду kubectl describe pv).
+Продемонстрировать, что файл сохранился на локальном диске ноды. Удалить PV. Продемонстрировать, что произошло с файлом после удаления PV. Пояснить, почему.
