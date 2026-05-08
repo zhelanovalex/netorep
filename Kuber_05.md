@@ -71,6 +71,11 @@ https://github.com/zhelanovalex/kuber-homeworks/tree/main/2.1/src
 
 ### Задание 3. StorageClass.
 #### Создать Deployment приложения, использующего PVC, созданный на основе StorageClass.
-1Создать Deployment приложения, состоящего из контейнеров busybox и multitool, использующего созданный ранее PVC.
-1Создать SC и PVC для подключения папки на локальной ноде, которая будет использована в поде.
-1Продемонстрировать, что контейнер multitool может читать данные из файла в смонтированной директории, в который busybox записывает данные каждые 5 секунд.
+##### Создать Deployment приложения, состоящего из контейнеров busybox и multitool, использующего созданный ранее PVC.
+##### Создать SC и PVC для подключения папки на локальной ноде, которая будет использована в поде.
+<img width="826" height="957" alt="image" src="https://github.com/user-attachments/assets/89cf9c8c-e999-4bad-afea-5859a6ed4a70" />
+
+##### Продемонстрировать, что контейнер multitool может читать данные из файла в смонтированной директории, в который busybox записывает данные каждые 5 секунд.
+<img width="914" height="239" alt="image" src="https://github.com/user-attachments/assets/a97f051d-8693-48a0-9af4-b88a99604b7e" />
+
+<img width="957" height="267" alt="image" src="https://github.com/user-attachments/assets/dd02b8a3-a758-4922-8d70-1e4dfec4f18b" />
