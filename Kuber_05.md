@@ -25,6 +25,8 @@ https://github.com/zhelanovalex/kuber-homeworks/tree/main/2.1/src
 ----
 <img width="888" height="120" alt="image" src="https://github.com/user-attachments/assets/7df34c42-f0c7-4f34-875d-efaeed51a28e" />
 ----
+<img width="894" height="245" alt="image" src="https://github.com/user-attachments/assets/f4ac1eea-6b67-43a2-a97c-2a330f92fa9a" />
+----
 <img width="966" height="294" alt="image" src="https://github.com/user-attachments/assets/d5dea62b-cf56-4772-a203-e894c844bac8" />
 ----
 <img width="1016" height="177" alt="image" src="https://github.com/user-attachments/assets/3187bb91-4070-46a2-be4a-38c227bb863a" />
