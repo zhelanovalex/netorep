@@ -46,3 +46,28 @@ https://github.com/zhelanovalex/kuber-homeworks/tree/main/2.3/src
 <img width="1183" height="142" alt="image" src="https://github.com/user-attachments/assets/57890b46-19e3-4200-9535-7771fdb5f627" />
 ----
 <img width="1097" height="110" alt="image" src="https://github.com/user-attachments/assets/6540762a-4044-4661-a1e5-493c1f271778" />
+
+## Задание 2: Настройка HTTPS с Secrets
+### Развернуть приложение с доступом по HTTPS, используя самоподписанный сертификат.
+#### Сгенерировать SSL-сертификат
+<img width="1097" height="153" alt="image" src="https://github.com/user-attachments/assets/5566d8ac-b641-455c-b89d-bfd83368f263" />
+
+#### Закодировать ключ и сертификат для передачи в качестве секрета.
+<img width="1102" height="66" alt="image" src="https://github.com/user-attachments/assets/3912f697-36ac-44f2-ba70-dfe3c3d9d410" />
+----
+<img width="1104" height="87" alt="image" src="https://github.com/user-attachments/assets/8aabac57-173e-4fc0-9a1b-ad41cfcc2ef8" />
+
+#### Создать Secret.
+<img width="816" height="278" alt="image" src="https://github.com/user-attachments/assets/aec836d8-3cf4-4e17-bcd1-11daafce0526" />
+
+#### Настроить Ingress.
+<img width="631" height="488" alt="image" src="https://github.com/user-attachments/assets/3fa04ab3-aa47-4414-a025-7c017f632405" />
+----
+<img width="779" height="87" alt="image" src="https://github.com/user-attachments/assets/7049a4e8-050c-483a-af70-afb157859863" />
+
+#### Проверить HTTPS-доступ извне.
+<img width="1193" height="153" alt="image" src="https://github.com/user-attachments/assets/7a63edbe-6ca9-4c00-b130-5387cb8731e4" />
+----
+<img width="1245" height="136" alt="image" src="https://github.com/user-attachments/assets/69f02f66-ab38-4f65-9309-0de006486cf8" />
+
+## Задание 3: Настройка RBAC
