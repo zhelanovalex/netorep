@@ -88,7 +88,7 @@ https://github.com/zhelanovalex/kuber-homeworks/tree/main/2.3/src
 
 #### Проверить доступ для нового пользователя.
 <img width="1177" height="228" alt="image" src="https://github.com/user-attachments/assets/9b89995f-0570-42e5-9650-7dcb3f165705" />
-----
+
 ##### Доступа нет.
 
 #### Создать Role (только просмотр логов и описания подов) и RoleBinding.
