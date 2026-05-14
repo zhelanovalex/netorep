@@ -84,5 +84,8 @@ https://github.com/zhelanovalex/kuber-homeworks/tree/main/2.3/src
 #### Создать контекст пользователя.
 <img width="1164" height="40" alt="image" src="https://github.com/user-attachments/assets/2102715f-53c1-4405-82de-d7f5492a57f6" />
 ----
-![Uploading image.png…]()
+<img width="667" height="440" alt="image" src="https://github.com/user-attachments/assets/403cb850-6cf1-473a-975a-2eca0f135da8" />
+
+#### Создать локального пользователя.
+<img width="687" height="57" alt="image" src="https://github.com/user-attachments/assets/ce3598c3-0487-4c80-9395-c5fdbd70389b" />
 
