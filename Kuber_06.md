@@ -96,7 +96,7 @@ https://github.com/zhelanovalex/kuber-homeworks/tree/main/2.3/src
 ----
 <img width="842" height="166" alt="image" src="https://github.com/user-attachments/assets/2fc33b57-6106-4236-88ef-72170de9616a" />
 
-### Проверить доступ для нового пользователя.
+### Повторно проверить доступ для нового пользователя.
 <img width="1088" height="383" alt="image" src="https://github.com/user-attachments/assets/9014d3eb-ae2e-4b51-a9c0-aed4f62de6d1" />
 
 #### Видно что доступ к pod и логам pod есть, а например к nodes нету.
