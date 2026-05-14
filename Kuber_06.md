@@ -71,3 +71,18 @@ https://github.com/zhelanovalex/kuber-homeworks/tree/main/2.3/src
 <img width="1245" height="136" alt="image" src="https://github.com/user-attachments/assets/69f02f66-ab38-4f65-9309-0de006486cf8" />
 
 ## Задание 3: Настройка RBAC
+### Создать пользователя с ограниченными правами (только просмотр логов и описания подов).
+#### Включите RBAC в microk8s.
+<img width="864" height="318" alt="image" src="https://github.com/user-attachments/assets/9770f3b3-2a4d-42c5-a8bd-0dc0c2d24ac3" />
+
+#### Создать SSL-сертификат для пользователя
+<img width="1231" height="211" alt="image" src="https://github.com/user-attachments/assets/f0ae3e76-023c-4947-bd76-98930b083867" />
+
+#### Создать пользователя.
+<img width="1181" height="40" alt="image" src="https://github.com/user-attachments/assets/28ee9a8e-6b08-401e-b167-8770e6f01089" />
+
+#### Создать контекст пользователя.
+<img width="1164" height="40" alt="image" src="https://github.com/user-attachments/assets/2102715f-53c1-4405-82de-d7f5492a57f6" />
+----
+![Uploading image.png…]()
+
