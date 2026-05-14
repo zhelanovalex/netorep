@@ -28,8 +28,21 @@ https://github.com/zhelanovalex/kuber-homeworks/tree/main/2.3/src
 
 #### Создан сервис для Deployment с двумя контейнерами nginx и multitool.
 <img width="648" height="320" alt="image" src="https://github.com/user-attachments/assets/dda85c1e-9725-4ae6-b4c8-a29cd8c0d092" />
-<img width="766" height="72" alt="image" src="https://github.com/user-attachments/assets/700cc122-4550-4006-9ffa-a5e1af34e9f0" />
+----
+<img width="779" height="386" alt="image" src="https://github.com/user-attachments/assets/0a591b45-d564-42c4-9bf6-05f23ee3ced6" />
 
 #### Создан ingess.
 <img width="606" height="402" alt="image" src="https://github.com/user-attachments/assets/ec471351-cd35-4703-b177-9a7378507398" />
+----
 <img width="854" height="292" alt="image" src="https://github.com/user-attachments/assets/60e08196-6e24-4582-a5aa-99339e48aa86" />
+
+### Проверить доступность локально из контейнера.
+<img width="1103" height="225" alt="image" src="https://github.com/user-attachments/assets/11e36dd0-5eb7-49bb-a683-c3ceed6bd2c8" />
+
+### Проверить доступность на уровне узлов кластера.
+<img width="1095" height="212" alt="image" src="https://github.com/user-attachments/assets/e68f4710-4817-4038-be69-1069aef07812" />
+
+### Проверить доступность извне.
+<img width="1183" height="142" alt="image" src="https://github.com/user-attachments/assets/57890b46-19e3-4200-9535-7771fdb5f627" />
+----
+<img width="1097" height="110" alt="image" src="https://github.com/user-attachments/assets/6540762a-4044-4661-a1e5-493c1f271778" />
