@@ -65,7 +65,7 @@ https://github.com/zhelanovalex/kuber-homeworks/tree/main/2.3/src
 ----
 <img width="779" height="87" alt="image" src="https://github.com/user-attachments/assets/7049a4e8-050c-483a-af70-afb157859863" />
 
-#### Проверить HTTPS-доступ извне.
+### Проверить HTTPS-доступ извне.
 <img width="1193" height="153" alt="image" src="https://github.com/user-attachments/assets/7a63edbe-6ca9-4c00-b130-5387cb8731e4" />
 ----
 <img width="1245" height="136" alt="image" src="https://github.com/user-attachments/assets/69f02f66-ab38-4f65-9309-0de006486cf8" />
@@ -86,7 +86,7 @@ https://github.com/zhelanovalex/kuber-homeworks/tree/main/2.3/src
 
 <img width="667" height="440" alt="image" src="https://github.com/user-attachments/assets/66ad2a40-6ba5-4707-9d94-3141d1bd9a50" />
 
-#### Проверить доступ для нового пользователя.
+### Проверить доступ для нового пользователя.
 <img width="1177" height="228" alt="image" src="https://github.com/user-attachments/assets/9b89995f-0570-42e5-9650-7dcb3f165705" />
 
 ##### Доступа нет.
@@ -96,7 +96,7 @@ https://github.com/zhelanovalex/kuber-homeworks/tree/main/2.3/src
 ----
 <img width="842" height="166" alt="image" src="https://github.com/user-attachments/assets/2fc33b57-6106-4236-88ef-72170de9616a" />
 
-#### Проверить доступ для нового пользователя.
+### Проверить доступ для нового пользователя.
 <img width="1088" height="383" alt="image" src="https://github.com/user-attachments/assets/9014d3eb-ae2e-4b51-a9c0-aed4f62de6d1" />
 
 #### Видно что доступ к pod и логам pod есть, а например к nodes нету.
