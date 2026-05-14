@@ -86,6 +86,5 @@ https://github.com/zhelanovalex/kuber-homeworks/tree/main/2.3/src
 ----
 <img width="667" height="440" alt="image" src="https://github.com/user-attachments/assets/403cb850-6cf1-473a-975a-2eca0f135da8" />
 
-#### Создать локального пользователя.
-<img width="687" height="57" alt="image" src="https://github.com/user-attachments/assets/ce3598c3-0487-4c80-9395-c5fdbd70389b" />
+
 
