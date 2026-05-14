@@ -84,7 +84,20 @@ https://github.com/zhelanovalex/kuber-homeworks/tree/main/2.3/src
 #### Создать контекст пользователя.
 <img width="1164" height="40" alt="image" src="https://github.com/user-attachments/assets/2102715f-53c1-4405-82de-d7f5492a57f6" />
 ----
-<img width="667" height="440" alt="image" src="https://github.com/user-attachments/assets/403cb850-6cf1-473a-975a-2eca0f135da8" />
+<img width="667" height="440" alt="image" src="https://github.com/user-attachments/assets/66ad2a40-6ba5-4707-9d94-3141d1bd9a50" />
 
+#### Проверить доступ для нового пользователя.
+<img width="1177" height="228" alt="image" src="https://github.com/user-attachments/assets/9b89995f-0570-42e5-9650-7dcb3f165705" />
+----
+##### Доступа нет.
+
+#### Создать Role (только просмотр логов и описания подов) и RoleBinding.
+<img width="808" height="484" alt="image" src="https://github.com/user-attachments/assets/043f4175-b420-44dd-bd18-953e8a4708d9" />
+----
+<img width="842" height="166" alt="image" src="https://github.com/user-attachments/assets/2fc33b57-6106-4236-88ef-72170de9616a" />
+
+#### Проверить доступ для нового пользователя.
+<img width="1088" height="383" alt="image" src="https://github.com/user-attachments/assets/9014d3eb-ae2e-4b51-a9c0-aed4f62de6d1" />
+#### Видно что доступ к pod и логам pod есть, а например к nodes нету.
 
 
