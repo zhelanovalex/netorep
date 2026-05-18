@@ -35,6 +35,9 @@ https://github.com/zhelanovalex/kuber-homeworks/tree/main/2.4/src
 
 ### Запуск c изменением версии образа и количества репдик.
 <img width="1231" height="376" alt="image" src="https://github.com/user-attachments/assets/b5edd7e9-03d2-4904-ac68-5e63f1f34cd4" />
-----
 <img width="1153" height="519" alt="image" src="https://github.com/user-attachments/assets/5381a20a-5d86-480f-a7a1-e116bb969754" />
+<img width="682" height="71" alt="image" src="https://github.com/user-attachments/assets/4af92106-3997-4d46-99b8-ca0f6563a488" />
 
+## Задание 2. Запустить две версии в разных неймспейсах.
+### Запуститe несколько копий приложения. Одну версию в namespace=app1, вторую версию в том же неймспейсе, третью версию в namespace=app2.
+### Созджать namespace app1 и app2.
