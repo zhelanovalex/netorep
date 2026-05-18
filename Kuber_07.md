@@ -22,8 +22,6 @@ https://github.com/zhelanovalex/kuber-homeworks/tree/main/2.4/src
 <img width="880" height="521" alt="image" src="https://github.com/user-attachments/assets/9a5d2fe9-7c6a-469a-82f7-2afda585ec59" />
 ----
 <img width="821" height="738" alt="image" src="https://github.com/user-attachments/assets/645f9480-e29b-4aac-943d-6e753e4ff12c" />
-
-### В переменных чарта измените образ приложения для изменения версии.
 <img width="637" height="229" alt="image" src="https://github.com/user-attachments/assets/bb621a90-f993-45d8-b38d-b46a75dbbd69" />
 
 ### Проверка манифкстов.
@@ -33,7 +31,6 @@ https://github.com/zhelanovalex/kuber-homeworks/tree/main/2.4/src
 <img width="734" height="132" alt="image" src="https://github.com/user-attachments/assets/882bd965-8269-457d-84da-ebd17896f559" />
 ----
 <img width="1072" height="53" alt="image" src="https://github.com/user-attachments/assets/678e2ea4-5340-4122-9646-22a85f4ea462" />
-----
 <img width="715" height="120" alt="image" src="https://github.com/user-attachments/assets/a146f060-85d2-436d-a1a3-0a21a52d6d2a" />
 
 ### Запуск c изменением версии образа и количества репдик.
