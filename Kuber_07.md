@@ -41,3 +41,6 @@ https://github.com/zhelanovalex/kuber-homeworks/tree/main/2.4/src
 ## Задание 2. Запустить две версии в разных неймспейсах.
 ### Запуститe несколько копий приложения. Одну версию в namespace=app1, вторую версию в том же неймспейсе, третью версию в namespace=app2.
 ### Созджать namespace app1 и app2.
+
+
+
