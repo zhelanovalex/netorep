@@ -39,8 +39,19 @@ https://github.com/zhelanovalex/kuber-homeworks/tree/main/2.4/src
 <img width="682" height="71" alt="image" src="https://github.com/user-attachments/assets/4af92106-3997-4d46-99b8-ca0f6563a488" />
 
 ## Задание 2. Запустить две версии в разных неймспейсах.
-### Запуститe несколько копий приложения. Одну версию в namespace=app1, вторую версию в том же неймспейсе, третью версию в namespace=app2.
-### Созджать namespace app1 и app2.
+### Запуститe несколько копий приложения. Одну версию в namespace=neto-app1, вторую версию в том же неймспейсе, третью версию в namespace=neto-app2.
+### Создать namespace neto-app1 и neto-app2.
+<img width="791" height="234" alt="image" src="https://github.com/user-attachments/assets/af59b5ce-c6bf-4306-9f89-8eec5e483e24" />
 
+### Запуск первого приложения в namespace=neto-app1 с переменными по умолчанию.
+<img width="1130" height="390" alt="image" src="https://github.com/user-attachments/assets/f5e6efc3-be3c-4d97-9d4f-b7d7d5473b10" />
+
+### Запуск второго приложения в namespace=neto-app1 c изменением версии образа и количества репдик.
+<img width="1145" height="467" alt="image" src="https://github.com/user-attachments/assets/e9af1b6c-feed-40f9-a3a6-1d84cc284df3" />
+<img width="1102" height="565" alt="image" src="https://github.com/user-attachments/assets/6ca8ab25-68ba-4abd-9497-90b68e58b047" />
+
+### Запуск третьего приложения в namespace=neto-app2 c изменением версии образа и количества репдик.
+<img width="1147" height="395" alt="image" src="https://github.com/user-attachments/assets/b77d91b2-d57c-42c5-8e89-b372ca9d6970" />
+<img width="1124" height="541" alt="image" src="https://github.com/user-attachments/assets/36eec36b-ffe3-4da9-ae3b-32a6bc32cc41" />
 
 
