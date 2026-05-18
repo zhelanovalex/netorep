@@ -24,7 +24,7 @@ https://github.com/zhelanovalex/kuber-homeworks/tree/main/2.4/src
 <img width="821" height="738" alt="image" src="https://github.com/user-attachments/assets/645f9480-e29b-4aac-943d-6e753e4ff12c" />
 <img width="637" height="229" alt="image" src="https://github.com/user-attachments/assets/bb621a90-f993-45d8-b38d-b46a75dbbd69" />
 
-### Проверка манифкстов.
+### Проверка манифестов.
 <img width="756" height="694" alt="image" src="https://github.com/user-attachments/assets/4fc0ff57-0422-4f7c-8430-c6673cd3693e" />
 
 ### Запуск по умолчанию.
