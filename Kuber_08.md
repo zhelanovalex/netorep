@@ -46,12 +46,12 @@
 3 × 12.8 RAM = 36.4 ГБ (требуется 30.25 — ок).  
 
 #### Предлагается вариант с учетом отказоустойчивости:
-4 worker nodes
-не менее 16 GB RAM
-не менее 8 CPU Cores
+4 worker nodes  
+не менее 16 GB RAM  
+не менее 8 CPU Cores  
 
-## Рассчитать требования к кластеру под проект.
+## По результату - требования к кластеру под проект.
 - 3 master nodes 8GB RAM, 4 CPUs  
-- 4 worker nodes 16 GB RAM, 8 CPUs  
+- 4 worker nodes 16GB RAM, 8 CPUs  
 
 
