@@ -7,8 +7,8 @@
 ----  
 <img width="892" height="127" alt="image" src="https://github.com/user-attachments/assets/ee54bbed-272b-4433-9f73-bfc9d7dc7961" />
 
-### Узлы собраны в кластер.
-<img width="651" height="85" alt="image" src="https://github.com/user-attachments/assets/c14b1882-070b-4125-895b-a43fb7fc7769" />
+### С помощью terraform создано 5 VM.
+<img width="961" height="284" alt="image" src="https://github.com/user-attachments/assets/43e6b52e-e538-42fc-bcd1-19994c76d800" />
 
 ### Установлен на локальном компьютере kubectl.
 <img width="641" height="133" alt="image" src="https://github.com/user-attachments/assets/9379bb5f-74d6-439f-943d-3ace4db81aee" />
