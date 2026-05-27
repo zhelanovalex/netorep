@@ -3,7 +3,7 @@
 
 ## Чеклист готовности к домашнему заданию
 ### С помощью packer создан образ Ubuntu22, со всеми реквизитами для установки Kubernetes
-<img width="1649" height="808" alt="image" src="https://github.com/user-attachments/assets/64cca6a8-f2b7-40fd-8f6e-2d3f4bbd523a" />
+<img width="1376" height="522" alt="image" src="https://github.com/user-attachments/assets/e58eba92-0d36-4343-b678-7407fdf966d6" />
 <img width="892" height="127" alt="image" src="https://github.com/user-attachments/assets/ee54bbed-272b-4433-9f73-bfc9d7dc7961" />
 
 ### На основании созданного образа, с помощью terraform создано 5 VM.
