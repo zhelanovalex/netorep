@@ -18,7 +18,7 @@
 https://github.com/zhelanovalex/kuber-homeworks/tree/main/3.2/src
 
 ## Задание 1. Установить кластер k8s с 1 master node
-### Так как все пререквизиты устанволены на всех узлах, выполняем инициализацию узла master кластера.
+### Так как все реквизиты установлены на всех узлах, выполняем инициализацию узла master кластера.
 <img width="1641" height="628" alt="image" src="https://github.com/user-attachments/assets/5aea9437-efe8-441e-8be6-13b5ba01baab" />
 <img width="1501" height="773" alt="image" src="https://github.com/user-attachments/assets/2fc78d80-8581-448b-a4a5-02ff2d833501" />
 
