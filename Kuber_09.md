@@ -14,7 +14,7 @@
 ### Установлен на локальном компьютере kubectl.
 <img width="586" height="57" alt="image" src="https://github.com/user-attachments/assets/3e661fc6-4190-4fb8-a740-1473ddc8e446" />
 
-### Сылка на манифесты.
+### Сылка на код terraform и packer.
 https://github.com/zhelanovalex/kuber-homeworks/tree/main/3.2/src
 
 ## Задание 1. Установить кластер k8s с 1 master node
