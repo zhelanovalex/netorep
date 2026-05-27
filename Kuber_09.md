@@ -15,4 +15,4 @@
 <img width="641" height="133" alt="image" src="https://github.com/user-attachments/assets/9379bb5f-74d6-439f-943d-3ace4db81aee" />
 
 ### Сылка на манифесты.
-https://github.com/zhelanovalex/kuber-homeworks/tree/main/2.3/src
+https://github.com/zhelanovalex/kuber-homeworks/tree/main/3.2/src
