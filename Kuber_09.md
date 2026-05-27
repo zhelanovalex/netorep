@@ -12,7 +12,12 @@
 <img width="961" height="284" alt="image" src="https://github.com/user-attachments/assets/43e6b52e-e538-42fc-bcd1-19994c76d800" />
 
 ### Установлен на локальном компьютере kubectl.
-<img width="641" height="133" alt="image" src="https://github.com/user-attachments/assets/9379bb5f-74d6-439f-943d-3ace4db81aee" />
+<img width="586" height="57" alt="image" src="https://github.com/user-attachments/assets/3e661fc6-4190-4fb8-a740-1473ddc8e446" />
 
 ### Сылка на манифесты.
 https://github.com/zhelanovalex/kuber-homeworks/tree/main/3.2/src
+
+## Задание 1. Установить кластер k8s с 1 master node
+### Так как все пререквизиты устанволены на всех узлах, выполняем инициализацию узла master кластера.
+<img width="1641" height="628" alt="image" src="https://github.com/user-attachments/assets/5aea9437-efe8-441e-8be6-13b5ba01baab" />
+<img width="1501" height="773" alt="image" src="https://github.com/user-attachments/assets/2fc78d80-8581-448b-a4a5-02ff2d833501" />
