@@ -32,7 +32,10 @@ https://github.com/zhelanovalex/kuber-homeworks/tree/main/3.2/src
 
 ### Поскольку Kubernetes сам по себе не создает сеть, для этой работы используются плагины через специальный интерфейс CNI (Container Network Interface). Calico — один из таких «подключаемых модулей». Устанавливаем плагин Calico.
 <img width="1077" height="625" alt="image" src="https://github.com/user-attachments/assets/663d28bb-1a07-4419-95fd-75f090d1bc7d" />
+
+### Проверякм состояние узлов кластера и системных pods.
 <img width="659" height="347" alt="image" src="https://github.com/user-attachments/assets/e38d0c1d-5ac2-4f6f-b77b-8ab7b3d2af8a" />
+<img width="852" height="312" alt="image" src="https://github.com/user-attachments/assets/964fe84d-fc1c-40d2-bff8-b4baf814c1fd" />
 
 
 
