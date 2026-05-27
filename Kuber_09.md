@@ -9,7 +9,6 @@
 
 ### С помощью terraform создано 5 VM.
 <img width="634" height="198" alt="image" src="https://github.com/user-attachments/assets/06dfc6b6-55de-4b33-b289-4471bd976b3d" />  
----- 
 <img width="961" height="284" alt="image" src="https://github.com/user-attachments/assets/43e6b52e-e538-42fc-bcd1-19994c76d800" />
 
 ### Установлен на локальном компьютере kubectl.
