@@ -14,7 +14,9 @@
 5. Создана Instance Group с тремя ВМ и шаблоном LAMP.  
 <img width="821" height="99" alt="image" src="https://github.com/user-attachments/assets/107a0881-befd-4fb3-944b-14c098a6c414" />  
 <img width="870" height="937" alt="image" src="https://github.com/user-attachments/assets/bcb64c3e-f9fd-42c8-8a9b-2e08aa65e1a3" />  
-<img width="909" height="158" alt="image" src="https://github.com/user-attachments/assets/3314055f-9ddb-40a9-a913-a38a3cf9c420" />  
+<img width="908" height="140" alt="image" src="https://github.com/user-attachments/assets/d322921b-d4d2-49da-912d-144deffa281d" />  
+<img width="1396" height="326" alt="image" src="https://github.com/user-attachments/assets/428b4869-99b4-42ce-a9bb-9b1bc3601a2b" />  
+
 
 
 
