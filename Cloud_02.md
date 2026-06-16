@@ -18,13 +18,13 @@
 <img width="908" height="140" alt="image" src="https://github.com/user-attachments/assets/d322921b-d4d2-49da-912d-144deffa281d" />  
 <img width="1396" height="326" alt="image" src="https://github.com/user-attachments/assets/428b4869-99b4-42ce-a9bb-9b1bc3601a2b" />  
 
-7. Создать сетевой балансировщик и подключить к нему группу.  
+6. Создать сетевой балансировщик и подключить к нему группу.  
 <img width="1016" height="544" alt="image" src="https://github.com/user-attachments/assets/2dabb1c0-4753-4f35-bd37-426d37bdd599" />  
 
-8. Просмотр стартовой веб-странице шаблонной ВМ через балансировщик.    
+7. Просмотр стартовой веб-странице шаблонной ВМ через балансировщик.    
 <img width="1348" height="683" alt="image" src="https://github.com/user-attachments/assets/938a32ce-5b10-4999-93ee-977864470cda" />  
 
-9. Проверка работоспособности, удалив одну ВМ.  
+8. Проверка работоспособности, удалив одну ВМ.  
 <img width="955" height="597" alt="image" src="https://github.com/user-attachments/assets/0518d87e-9caa-402b-b40b-4256f997d4ec" />  
 
 
