@@ -4,6 +4,7 @@
 1. Подготовлены манифексты Terraform для создания требуемых ресурсов в облаке Yandex Cloud.
    https://github.com/zhelanovalex/clopro-homeworks/tree/main/15.2/src
 2. Манифесты применены и инфраструктура, согласно полного задания, создана.    
+<img width="848" height="261" alt="image" src="https://github.com/user-attachments/assets/410b1141-c954-4e24-ba9c-cb8a63999494" />  
 
 3. Создан бакет Object Storage и в нём размещен файл с картинкой.   
 <img width="835" height="343" alt="image" src="https://github.com/user-attachments/assets/1d292770-34f0-478e-91ae-fbe35abf9009" />  
