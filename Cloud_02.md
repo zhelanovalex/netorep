@@ -2,5 +2,5 @@
 ## Задание 1. Yandex Cloud
 
 1. Подготовлены манифексты Terraform для создания требуемых ресурсов в облаке Yandex Cloud.
-   https://github.com/zhelanovalex/clopro-homeworks/tree/main/15.1/src
+   https://github.com/zhelanovalex/clopro-homeworks/tree/main/15.2/src
 2. Манифесты применены и инфраструктура создана.  
