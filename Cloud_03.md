@@ -8,6 +8,9 @@
  
 3. Создан бакет Object Storage и в нём размещен файл с картинкой.   
 <img width="842" height="355" alt="image" src="https://github.com/user-attachments/assets/006b4b74-221f-447b-b879-526fe638fb8b" />  
- 
-5. Файл Сделан доступным из интернета.  
+
+4. Cоздаy симметричный ключ шифрования 
+<img width="941" height="109" alt="image" src="https://github.com/user-attachments/assets/2b989ebf-5545-4af3-b067-00fb93b6f48c" />
+
+4. Файл Сделан доступным из интернета.  
 <img width="1303" height="731" alt="image" src="https://github.com/user-attachments/assets/8f3a3649-9143-42af-9d8e-531ac7443c10" />  
